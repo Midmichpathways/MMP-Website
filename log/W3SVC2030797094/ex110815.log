@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-08-15 16:36:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-08-15 16:36:03 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.71.77 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 21859
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-08-15 19:45:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-08-15 19:45:11 W3SVC2030797094 WS2 207.241.128.59 GET /wp-includes/images/blank.gif - 80 - 119.176.165.228 HTTP/1.1 - - - midmichpathways.org 404 3 1795 98 250
+2011-08-15 19:45:13 W3SVC2030797094 WS2 207.241.128.59 GET /blog/wp-includes/images/blank.gif - 80 - 119.176.165.228 HTTP/1.1 - - - midmichpathways.org 404 3 1795 78 234
+2011-08-15 19:45:13 W3SVC2030797094 WS2 207.241.128.59 GET /wp/wp-includes/images/blank.gif - 80 - 119.176.165.228 HTTP/1.1 - - - midmichpathways.org 404 3 1795 76 250
+2011-08-15 19:45:13 W3SVC2030797094 WS2 207.241.128.59 GET /wordpress/wp-includes/images/blank.gif - 80 - 119.176.165.228 HTTP/1.1 - - - midmichpathways.org 404 3 1795 83 234
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-08-15 22:39:38
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-08-15 22:39:38 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 207.46.204.184 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 404 2 1795 271 31
+2011-08-15 22:42:58 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 207.46.204.184 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 200 64 0 376 93
+2011-08-15 22:50:15 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.67.140 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 546
+2011-08-15 22:50:16 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.68.117 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 546

@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-05-05 11:30:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-05-05 11:30:40 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 46.4.95.200 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.1+(KHTML,+like+Gecko)+Chrome/6.0.427.0+Safari/534.1 - http://dom-v-anape.ru/ midmichpathways.org 200 64 0 299 343
+2011-05-05 11:30:40 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 46.4.95.200 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.3)+Gecko/20100401+Firefox/3.6.3 - - midmichpathways.org 200 0 3057 239 265
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-05-05 19:59:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-05-05 19:59:15 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.71.112 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 404 2 1795 260 93
+2011-05-05 19:59:15 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 66.249.71.112 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 3038 233 125

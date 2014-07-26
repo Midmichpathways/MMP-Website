@@ -1,0 +1,28 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-07-20 21:24:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /_sql/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 156 3453
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /myadmin/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 159 11953
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /my-php/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 158 3156
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /mysql/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 157 11656
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /muieblackcat - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 2 1814 145 15843
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /sql/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 155 3734
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 162 10609
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /_php/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 156 4015
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /db/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 154 15234
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 151 15531
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /phpadmin/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 11078
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /_phpmyadmin/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 163 10312
+2011-07-20 21:24:11 W3SVC2030797094 WS2 207.241.128.59 GET /mysqladmin/scripts/setup.php - 80 - 195.184.8.248 HTTP/1.1 - - - midmichpathways.org 404 3 1814 162 11359
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-07-20 22:51:51
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-07-20 22:51:51 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.67.118 HTTP/1.1 Googlebot-Image/1.0 - - midmichpathways.org 404 2 1795 207 93
+2011-07-20 22:51:51 W3SVC2030797094 WS2 207.241.128.59 GET /Mid_Michigan_Community_Pathway_sketch_copy.jpeg - 80 - 66.249.67.118 HTTP/1.1 Googlebot-Image/1.0 - - midmichpathways.org 304 0 215 277 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-07-21 03:08:29
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-07-21 03:08:29 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.71.71 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 625

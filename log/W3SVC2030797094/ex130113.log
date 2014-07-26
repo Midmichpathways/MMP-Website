@@ -1,0 +1,27 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-13 10:15:33
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-01-13 10:15:33 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 213.174.154.106 HTTP/1.1 Mozilla/5.0+(X11;+Linux+AMD64)+Gecko+Firefox/5.0 - http://www.google.com midmichpathways.org 200 0 3038 152 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-13 15:45:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-01-13 15:45:30 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 157.55.35.47 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 404 2 1795 271 78
+2013-01-13 15:47:27 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 157.55.35.47 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 200 0 7737 376 218
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-13 16:33:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-01-13 16:33:16 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.73.73 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 404 2 1795 269 31
+2013-01-13 16:33:16 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 66.249.73.73 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 5096 241 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-13 17:05:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-01-13 17:05:01 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 66.249.73.73 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 7737 245 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-14 04:59:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-01-14 04:59:09 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 184.73.55.214 HTTP/1.0 - - http://www.go-profitclicking.com www.midmichpathways.org 200 0 3061 158 203

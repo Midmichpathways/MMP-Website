@@ -1,0 +1,116 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-05-28 12:21:07
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-05-28 12:21:07 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 67.195.115.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 404 2 1814 200 156
+2011-05-28 12:21:07 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 67.195.115.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 3000 369 250
+2011-05-28 12:21:07 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 67.195.115.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/index.html www.midmichpathways.org 200 0 2217 339 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-05-28 14:20:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-05-28 14:20:46 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.71.90 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 304 0 291 317 343
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-05-28 17:16:21
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-05-28 17:16:21 W3SVC2030797094 WS2 207.241.128.59 GET /w00tw00t.at.blackhats.romanian.anti-sec:) - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 192 20750
+2011-05-28 17:16:21 W3SVC2030797094 WS2 207.241.128.59 GET /scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 168 20250
+2011-05-28 17:16:26 W3SVC2030797094 WS2 207.241.128.59 GET /admin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 174 19328
+2011-05-28 17:16:26 W3SVC2030797094 WS2 207.241.128.59 GET /admin/pma/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 178 18765
+2011-05-28 17:16:31 W3SVC2030797094 WS2 207.241.128.59 GET /admin/phpmyadmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 23078
+2011-05-28 17:16:31 W3SVC2030797094 WS2 207.241.128.59 GET /db/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 171 22437
+2011-05-28 17:16:31 W3SVC2030797094 WS2 207.241.128.59 GET /dbadmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 176 21875
+2011-05-28 17:16:31 W3SVC2030797094 WS2 207.241.128.59 GET /myadmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 176 21203
+2011-05-28 17:16:31 W3SVC2030797094 WS2 207.241.128.59 GET /mysql/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 174 20546
+2011-05-28 17:16:31 W3SVC2030797094 WS2 207.241.128.59 GET /mysqladmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 179 19953
+2011-05-28 17:16:31 W3SVC2030797094 WS2 207.241.128.59 GET /typo3/phpmyadmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 19296
+2011-05-28 17:16:31 W3SVC2030797094 WS2 207.241.128.59 GET /phpadmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 177 18687
+2011-05-28 17:16:31 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 179 18125
+2011-05-28 17:16:36 W3SVC2030797094 WS2 207.241.128.59 GET /phpmyadmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 179 22531
+2011-05-28 17:16:36 W3SVC2030797094 WS2 207.241.128.59 GET /phpmyadmin1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 180 22000
+2011-05-28 17:16:37 W3SVC2030797094 WS2 207.241.128.59 GET /web/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 64 0 172 2968
+2011-05-28 17:16:40 W3SVC2030797094 WS2 207.241.128.59 GET /phpmyadmin2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 180 18171
+2011-05-28 17:16:46 W3SVC2030797094 WS2 207.241.128.59 GET /pma/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 172 22843
+2011-05-28 17:16:46 W3SVC2030797094 WS2 207.241.128.59 GET /web/phpMyAdmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 183 22515
+2011-05-28 17:16:46 W3SVC2030797094 WS2 207.241.128.59 GET /xampp/phpmyadmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 22015
+2011-05-28 17:16:51 W3SVC2030797094 WS2 207.241.128.59 GET /php-my-admin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 181 20421
+2011-05-28 17:16:51 W3SVC2030797094 WS2 207.241.128.59 GET /websql/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 175 19906
+2011-05-28 17:16:51 W3SVC2030797094 WS2 207.241.128.59 GET /phpmyadmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 179 19593
+2011-05-28 17:16:51 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 179 19125
+2011-05-28 17:16:51 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 181 18671
+2011-05-28 17:17:01 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.2.3/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 21718
+2011-05-28 17:17:05 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 23046
+2011-05-28 17:17:05 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.4/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 22468
+2011-05-28 17:17:05 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.5-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 21890
+2011-05-28 17:17:05 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.5-rc2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 21312
+2011-05-28 17:17:11 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.5/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 22921
+2011-05-28 17:17:11 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.5-pl1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 22281
+2011-05-28 17:17:11 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.6-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 21140
+2011-05-28 17:17:11 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.6-rc2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 20718
+2011-05-28 17:17:11 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.6/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 20312
+2011-05-28 17:17:11 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.7/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 19937
+2011-05-28 17:17:11 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.7-pl1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19484
+2011-05-28 17:17:16 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0-alpha/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 191 19109
+2011-05-28 17:17:20 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0-alpha2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 192 21375
+2011-05-28 17:17:26 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0-beta2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 191 22609
+2011-05-28 17:17:30 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 22203
+2011-05-28 17:17:30 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0-rc2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 18515
+2011-05-28 17:17:34 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.1-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 64 0 189 203
+2011-05-28 17:17:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0-rc3/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19750
+2011-05-28 17:17:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 19203
+2011-05-28 17:17:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0-pl1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 18625
+2011-05-28 17:17:45 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0-pl2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 23156
+2011-05-28 17:17:45 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.0-pl3/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 22609
+2011-05-28 17:17:50 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.1-rc2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 20875
+2011-05-28 17:17:55 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 20296
+2011-05-28 17:17:55 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.1-pl1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19906
+2011-05-28 17:17:55 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.1-pl2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19515
+2011-05-28 17:18:00 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.2-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 21093
+2011-05-28 17:18:00 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.2-beta1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 191 20703
+2011-05-28 17:18:00 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.2-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 20234
+2011-05-28 17:18:00 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 19718
+2011-05-28 17:18:00 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.2-pl1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19171
+2011-05-28 17:18:00 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.3/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 18718
+2011-05-28 17:18:06 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.3-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 18296
+2011-05-28 17:18:10 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.3-pl1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19937
+2011-05-28 17:18:10 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.4-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19562
+2011-05-28 17:18:15 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.4-pl1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19218
+2011-05-28 17:18:15 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.4-pl2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 18859
+2011-05-28 17:18:15 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.4-pl3/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 18484
+2011-05-28 17:18:21 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.4-pl4/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 22984
+2011-05-28 17:18:21 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.6.4/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 22671
+2011-05-28 17:18:21 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.7.0-beta1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 191 22343
+2011-05-28 17:18:21 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.7.0-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 21968
+2011-05-28 17:18:21 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.7.0-pl1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 21531
+2011-05-28 17:18:25 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.7.0-pl2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 21109
+2011-05-28 17:18:25 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.7.0/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 185 20593
+2011-05-28 17:18:25 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.0-beta1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 191 20125
+2011-05-28 17:18:29 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.0.2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 64 0 187 171
+2011-05-28 17:18:30 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.0-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19734
+2011-05-28 17:18:30 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.0-rc2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 1236 0 189 19218
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.0.1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 187 18156
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.0.3/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 187 9640
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.2/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 185 8187
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.0/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 185 18625
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.0.4/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 187 9296
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 185 8578
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.8.1-rc1/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 189 8953
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /sqlmanager/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 179 7875
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /mysqlmanager/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 181 7546
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /PMA2005/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 176 6828
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpmanager/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 179 6062
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /sqlweb/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 175 1781
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /pma2005/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 176 6453
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /p/m/a/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 174 7218
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /phpmy-admin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 180 2468
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /webadmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 177 2125
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /websql/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 175 1468
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /webdb/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 174 1171
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /mysqladmin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 179 859
+2011-05-28 17:18:35 W3SVC2030797094 WS2 207.241.128.59 GET /mysql-admin/scripts/setup.php - 80 - 194.19.140.96 HTTP/1.1 ZmEu - - midmichpathways.org 404 3 1814 180 531
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-05-28 19:02:48
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-05-28 19:02:47 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 67.202.51.251 HTTP/1.0 Mozilla/5.0+(compatible;+NetcraftSurveyAgent/1.0;++info@netcraft.com) - - www.midmichpathways.org 200 0 3061 368 8906

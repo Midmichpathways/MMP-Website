@@ -1,0 +1,37 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-03-01 11:18:49
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-03-01 11:18:49 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 208.115.113.88 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - - midmichpathways.org 404 2 1795 194 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-03-01 12:42:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-03-01 12:42:46 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 208.115.113.88 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - - midmichpathways.org 200 0 4243 196 234
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-03-01 17:35:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-03-01 17:35:03 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 220.181.108.87 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 875
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-03-01 20:48:44
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-03-01 20:48:44 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.73.73 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 404 2 1795 269 31
+2013-03-01 20:48:44 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 66.249.73.73 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 3038 233 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-03-01 21:49:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-03-01 21:49:50 W3SVC2030797094 WS2 207.241.128.59 GET /Mid_Michigan_Community_Pathway_sketch_copy.jpeg - 80 - 66.249.73.73 HTTP/1.1 Googlebot-Image/1.0 - - midmichpathways.org 200 0 31157 227 187
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-03-01 23:10:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-03-01 23:10:38 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 65.55.24.236 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.midmichpathways.org 404 2 1795 275 203
+2013-03-01 23:12:42 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 65.55.24.236 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.midmichpathways.org 200 0 3042 278 234
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-03-02 02:54:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-03-02 02:54:22 W3SVC2030797094 WS2 207.241.128.59 GET /" - 80 - 66.249.73.73 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 404 123 1795 236 31

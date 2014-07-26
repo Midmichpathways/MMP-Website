@@ -1,0 +1,66 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-13 05:29:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-13 05:29:58 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - midmichpathways.org 404 2 1795 226 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-13 05:51:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-13 05:51:50 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - midmichpathways.org 200 0 3038 216 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-13 11:01:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-13 11:01:16 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 123.125.71.48 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 2217 236 249
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-13 13:38:52
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-13 13:38:52 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 180.76.6.213 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - www.midmichpathways.org 404 64 0 195 234
+2014-05-13 13:41:48 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 180.76.5.173 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.midmichpathways.org 200 0 2217 234 250
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-13 16:14:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-13 16:14:50 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 123.125.71.60 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 1899 235 249
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-13 20:10:49
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-13 20:10:49 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.75.169 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 404 2 1795 269 46
+2014-05-13 20:10:49 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 66.249.75.152 HTTP/1.1 SAMSUNG-SGH-E250/1.0+Profile/MIDP-2.0+Configuration/CLDC-1.1+UP.Browser/6.2.3.3.c.1.101+(GUI)+MMP/2.0+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 3038 469 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-13 21:43:08
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-13 21:43:08 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 107.178.210.1 HTTP/1.0 NerdyBot - - midmichpathways.org 200 0 3062 104 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-13 23:10:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-13 23:10:09 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 46.4.100.231 HTTP/1.1 BacklinkCrawler+(http://www.backlinktest.com/crawler.html) - - midmichpathways.org 404 2 1795 323 125
+2014-05-13 23:10:09 W3SVC2030797094 WS2 207.241.128.59 GET /sitemap.xml - 80 - 46.4.100.231 HTTP/1.1 BacklinkCrawler+(http://www.backlinktest.com/crawler.html) - - midmichpathways.org 404 2 1795 324 125
+2014-05-13 23:10:12 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 46.4.100.231 HTTP/1.1 BacklinkCrawler+(http://www.backlinktest.com/crawler.html) - - midmichpathways.org 200 0 3038 313 250
+2014-05-13 23:10:14 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 46.4.100.231 HTTP/1.1 BacklinkCrawler+(http://www.backlinktest.com/crawler.html) - - midmichpathways.org 200 0 5096 321 281
+2014-05-13 23:10:15 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 46.4.100.231 HTTP/1.1 BacklinkCrawler+(http://www.backlinktest.com/crawler.html) - - midmichpathways.org 200 0 1880 321 171
+2014-05-13 23:10:17 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 46.4.100.231 HTTP/1.1 BacklinkCrawler+(http://www.backlinktest.com/crawler.html) - - midmichpathways.org 200 0 2981 323 250
+2014-05-13 23:10:20 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 46.4.100.231 HTTP/1.1 BacklinkCrawler+(http://www.backlinktest.com/crawler.html) - - midmichpathways.org 200 0 4243 325 296
+2014-05-13 23:10:22 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 46.4.100.231 HTTP/1.1 BacklinkCrawler+(http://www.backlinktest.com/crawler.html) - - midmichpathways.org 200 0 7737 325 281
+2014-05-13 23:10:23 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 46.4.100.231 HTTP/1.1 BacklinkCrawler+(http://www.backlinktest.com/crawler.html) - - midmichpathways.org 200 0 1583 325 156
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-14 01:25:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-14 01:25:10 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 66.249.75.129 HTTP/1.1 DoCoMo/2.0+N905i(c100;TB;W24H16)+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 3038 286 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-14 03:03:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-14 03:03:22 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 37.58.100.182 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - midmichpathways.org 200 0 5096 178 234
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-05-14 03:43:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-05-14 03:43:59 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 217.69.133.230 HTTP/1.1 Mozilla/5.0+(compatible;+Linux+x86_64;+Mail.RU_Bot/2.0;++http://go.mail.ru/help/robots) - - midmichpathways.org 404 2 1814 253 171
+2014-05-14 03:44:00 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 217.69.133.232 HTTP/1.1 Mozilla/5.0+(compatible;+Linux+x86_64;+Mail.RU_Bot/2.0;++http://go.mail.ru/help/robots) - - midmichpathways.org 200 0 1602 345 156

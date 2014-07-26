@@ -1,0 +1,52 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-14 04:20:52
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-03-14 04:20:52 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 37.140.141.36 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - - midmichpathways.org 404 2 1795 192 218
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-14 05:56:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-03-14 05:56:03 W3SVC2030797094 WS2 207.241.128.59 GET /Mid_Michigan_Community_Pathway_sketch_copy.jpeg - 80 - 37.140.141.36 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - - midmichpathways.org 304 0 215 334 312
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-14 08:14:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-03-14 08:14:59 W3SVC2030797094 WS2 207.241.128.59 GET /cms2.jpg - 80 - 37.140.141.36 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - - midmichpathways.org 304 0 214 295 515
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-14 10:17:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-03-14 10:17:03 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 220.181.108.94 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 2217 236 375
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-14 13:20:52
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-03-14 13:20:52 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+help@moz.com) - - midmichpathways.org 404 2 1795 186 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-14 14:23:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-03-14 14:23:26 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+help@moz.com) - - midmichpathways.org 200 0 1880 184 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-14 15:34:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-03-14 15:34:22 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 180.76.5.67 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 5115 229 484
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-14 17:52:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-03-14 17:52:00 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 81.144.138.34 HTTP/1.1 Wotbox/2.01+(+http://www.wotbox.com/bot/) - - midmichpathways.org 404 64 0 290 250
+2014-03-14 17:52:10 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 81.144.138.34 HTTP/1.1 Wotbox/2.01+(+http://www.wotbox.com/bot/) - - midmichpathways.org 200 0 3057 280 468
+2014-03-14 17:52:16 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 81.144.138.34 HTTP/1.1 Wotbox/2.01+(+http://www.wotbox.com/bot/) - - midmichpathways.org 200 0 3000 290 421
+2014-03-14 17:52:22 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 81.144.138.34 HTTP/1.1 Wotbox/2.01+(+http://www.wotbox.com/bot/) - - midmichpathways.org 200 0 1899 288 234
+2014-03-14 17:52:27 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 81.144.138.34 HTTP/1.1 Wotbox/2.01+(+http://www.wotbox.com/bot/) - - midmichpathways.org 200 0 4262 292 515
+2014-03-14 17:52:33 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 81.144.138.34 HTTP/1.1 Wotbox/2.01+(+http://www.wotbox.com/bot/) - - midmichpathways.org 200 0 5115 288 328
+2014-03-14 17:52:39 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 81.144.138.34 HTTP/1.1 Wotbox/2.01+(+http://www.wotbox.com/bot/) - - midmichpathways.org 200 0 7756 292 484
+2014-03-14 17:52:45 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 81.144.138.34 HTTP/1.1 Wotbox/2.01+(+http://www.wotbox.com/bot/) - - midmichpathways.org 200 0 1602 292 296
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-15 03:21:08
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-03-15 03:21:08 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextarea.js - 80 - 180.76.5.72 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 38693 257 968

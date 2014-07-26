@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-24 06:45:33
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-24 06:45:32 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 207.46.13.160 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 404 2 1795 271 46
+2012-03-24 06:46:18 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 207.46.13.160 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 200 64 0 376 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-24 16:38:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-24 16:38:11 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 71.13.79.226 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=3&ved=0CDMQFjAC&url=http%3A%2F%2Fmidmichpathways.org%2F&ei=Y_htT9-iA8aMgweQzvVs&usg=AFQjCNE1Bum-5iyd7SLdCJKhDCyQ7SPnMw midmichpathways.org 200 0 3038 452 703
+2012-03-24 16:38:11 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 71.13.79.226 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - http://midmichpathways.org/ midmichpathways.org 200 0 2198 274 156
+2012-03-24 16:38:11 W3SVC2030797094 WS2 207.241.128.59 GET /images/background.png - 80 - 71.13.79.226 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - http://midmichpathways.org/ midmichpathways.org 200 0 3068 328 171
+2012-03-24 16:38:11 W3SVC2030797094 WS2 207.241.128.59 GET /cms2.jpg - 80 - 71.13.79.226 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - http://midmichpathways.org/ midmichpathways.org 200 0 17928 315 812
+2012-03-24 16:38:13 W3SVC2030797094 WS2 207.241.128.59 GET /images/menu.png - 80 - 71.13.79.226 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - http://midmichpathways.org/ midmichpathways.org 200 0 3638 322 640
+2012-03-24 16:38:15 W3SVC2030797094 WS2 207.241.128.59 GET /images/main.jpg - 80 - 71.13.79.226 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - http://midmichpathways.org/ midmichpathways.org 200 0 343359 322 3140
+2012-03-24 16:38:15 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 71.13.79.226 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - - midmichpathways.org 404 2 1795 209 203
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-24 20:31:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-24 20:31:30 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 119.63.196.85 HTTP/1.1 Baiduspider+(+http://www.baidu.com/search/spider.htm) - - midmichpathways.org 404 64 0 207 171
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-24 23:39:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-24 23:39:17 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 123.125.71.26 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 404 64 0 207 375
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-25 02:56:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-25 02:56:01 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 220.181.108.81 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 4262 239 609

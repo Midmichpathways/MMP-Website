@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-29 16:26:05
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-05-29 16:26:05 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 100.43.83.137 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - midmichpathways.org 404 2 1795 189 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-29 22:05:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-05-29 22:05:39 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 65.52.109.200 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 404 2 1795 271 78
+2012-05-29 22:06:22 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 65.52.109.200 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 200 64 0 376 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-29 22:59:06
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-05-29 22:59:05 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 180.76.5.88 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.midmichpathways.org 200 0 3000 235 531
+2012-05-29 22:59:07 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 180.76.5.180 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.midmichpathways.org 200 0 3061 225 671
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-29 23:16:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-05-29 23:16:39 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 100.43.83.137 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - midmichpathways.org 304 0 215 329 62

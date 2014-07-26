@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-10 04:32:20
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-10 04:32:20 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 180.76.5.156 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - midmichpathways.org 404 64 0 191 250
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-10 05:18:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-10 05:18:03 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 157.56.93.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 404 2 1795 271 78
+2013-04-10 05:20:03 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 157.56.93.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 200 0 3038 274 234
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-10 12:44:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-10 12:44:12 W3SVC2030797094 WS2 207.241.128.59 GET /wp-admin/ - 80 - 201.253.20.185 HTTP/1.1 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+WIndows+NT+9.0;+en-US)) wordpress_test_cookie=WP+Cookie+check - midmichpathways.org 404 2 1795 319 250
+2013-04-10 12:44:12 W3SVC2030797094 WS2 207.241.128.59 GET /wordpress/wp-admin/ - 80 - 201.253.20.185 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.15+(KHTML,+like+Gecko)+Chrome/24.0.1295.0+Safari/537.15 wordpress_test_cookie=WP+Cookie+check - midmichpathways.org 404 3 1795 378 234
+2013-04-10 12:44:12 W3SVC2030797094 WS2 207.241.128.59 GET /blog/wp-admin/ - 80 - 201.253.20.185 HTTP/1.1 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+WIndows+NT+9.0;+en-US)) wordpress_test_cookie=WP+Cookie+check - midmichpathways.org 404 3 1795 324 250
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-10 15:01:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-10 15:01:10 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 23.22.46.23 HTTP/1.0 Mozilla/5.0+(compatible;+NetcraftSurveyAgent/1.0;++info@netcraft.com) - - www.midmichpathways.org 200 0 3061 368 6781
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-10 20:56:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-10 20:56:17 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 199.21.99.103 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - midmichpathways.org 404 2 1795 189 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-11 03:35:27
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-11 03:35:27 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 199.21.99.103 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - midmichpathways.org 200 0 3038 267 234

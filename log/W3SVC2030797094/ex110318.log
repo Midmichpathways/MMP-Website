@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-03-18 19:45:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-03-18 19:45:12 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 404 2 1814 200 109
+2011-03-18 19:45:13 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 3061 359 203
+2011-03-18 19:45:13 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/ www.midmichpathways.org 200 0 2217 329 203
+2011-03-18 19:46:24 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 4262 371 437
+2011-03-18 19:48:48 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 5115 367 234
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-03-18 21:14:18
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-03-18 21:14:18 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 404 2 1814 200 93
+2011-03-18 21:14:18 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 1602 371 140
+2011-03-18 21:16:11 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 3000 369 187
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-03-18 23:00:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-03-18 23:00:15 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 1899 367 109
+2011-03-18 23:00:15 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 67.195.111.162 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/map.html www.midmichpathways.org 304 0 234 427 93

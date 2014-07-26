@@ -1,0 +1,54 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-11 05:39:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-11 05:39:47 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 66.249.73.193 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 304 0 215 426 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-11 15:37:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-11 15:37:57 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.73.193 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 404 2 1795 269 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-11 16:11:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-11 16:11:31 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 37.140.141.36 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - - midmichpathways.org 404 2 1795 192 218
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-11 17:37:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-11 17:37:30 W3SVC2030797094 WS2 207.241.128.59 GET /Mid_Michigan_Community_Pathway_sketch_copy.jpeg - 80 - 37.140.141.36 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - - midmichpathways.org 304 0 215 334 234
+2013-12-11 17:38:05 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 66.249.73.193 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 304 0 215 422 15
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-11 18:30:35
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-11 18:30:34 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 95.173.163.157 HTTP/1.0 Opera/9.80+(Windows+NT+6.1;+WOW64)+Presto/2.12.388+Version/12.10 - http://www.registered-domains-list.com midmichpathways.org 200 0 3057 436 500
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-11 18:48:14
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-11 18:48:14 W3SVC2030797094 WS2 207.241.128.59 GET /cms2.jpg - 80 - 37.140.141.36 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - - midmichpathways.org 304 0 214 295 218
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-11 19:09:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-11 19:09:22 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 162.243.100.200 HTTP/1.1 Wget/1.13.4+(linux-gnu) - - midmichpathways.org 200 0 3038 119 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-11 23:09:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-11 23:09:26 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 46.229.167.149 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.0;+WOW64;+rv:6.0)+Gecko/20100101+Firefox/6.0 - - midmichpathways.org 200 0 3038 142 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-12 02:21:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-12 02:21:15 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 78.158.11.226 HTTP/1.1 Lynx/2.8.5rel.1+libwww-FM/2.15FC+SSL-MM/1.4.1c+OpenSSL/0.9.7e-dev - http://maldb.com/midmichpathways.org/ midmichpathways.org 200 0 3038 219 296
+2013-12-12 02:21:15 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 78.158.11.226 HTTP/1.1 Lynx/2.8.5rel.1+libwww-FM/2.15FC+SSL-MM/1.4.1c+OpenSSL/0.9.7e-dev - http://midmichpathways.org/ midmichpathways.org 200 0 1583 221 187
+2013-12-12 02:21:16 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 78.158.11.226 HTTP/1.1 Lynx/2.8.5rel.1+libwww-FM/2.15FC+SSL-MM/1.4.1c+OpenSSL/0.9.7e-dev - - midmichpathways.org 200 0 5096 179 328
+2013-12-12 02:21:18 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 78.158.11.226 HTTP/1.1 Lynx/2.8.5rel.1+libwww-FM/2.15FC+SSL-MM/1.4.1c+OpenSSL/0.9.7e-dev - http://www.google.com/url?sa=t&rct=j&q=midmichpathways.org&source=web&cd=5&ved=0CF0QFjAE&url=http:%2F%2Fmidmichpathways.org%2F&cad=rja midmichpathways.org 200 64 0 316 2562
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-12 04:23:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-12 04:23:12 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 162.243.100.200 HTTP/1.1 Wget/1.13.4+(linux-gnu) - - midmichpathways.org 200 0 3038 119 62

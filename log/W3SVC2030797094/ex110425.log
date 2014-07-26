@@ -1,0 +1,35 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-04-25 10:34:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-04-25 10:34:00 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 72.94.249.38 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) - - www.midmichpathways.org 200 0 3042 203 140
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-04-25 17:23:34
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-04-25 17:23:34 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 216.111.200.134 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=mid+michigan+pathways midmichpathways.org 200 0 4243 520 62
+2011-04-25 17:23:34 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 216.111.200.134 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - http://midmichpathways.org/mission.html midmichpathways.org 200 0 2198 407 15
+2011-04-25 17:23:34 W3SVC2030797094 WS2 207.241.128.59 GET /images/background.png - 80 - 216.111.200.134 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - http://midmichpathways.org/mission.html midmichpathways.org 200 0 3068 404 31
+2011-04-25 17:23:34 W3SVC2030797094 WS2 207.241.128.59 GET /images/menu.png - 80 - 216.111.200.134 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - http://midmichpathways.org/mission.html midmichpathways.org 200 0 3638 398 281
+2011-04-25 17:23:35 W3SVC2030797094 WS2 207.241.128.59 GET /images/main.jpg - 80 - 216.111.200.134 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - http://midmichpathways.org/mission.html midmichpathways.org 200 0 343359 398 1046
+2011-04-25 17:23:35 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 216.111.200.134 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - - midmichpathways.org 404 2 1795 344 15
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-04-25 20:38:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-04-25 20:38:00 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 404 2 1814 200 93
+2011-04-25 20:38:00 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 3061 359 218
+2011-04-25 20:38:01 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/ www.midmichpathways.org 200 0 2217 329 140
+2011-04-25 20:39:40 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 1899 367 125
+2011-04-25 20:39:52 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 7756 371 265
+2011-04-25 20:39:54 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextField.css - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/friends.html www.midmichpathways.org 200 0 3392 370 234
+2011-04-25 20:39:56 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextarea.css - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/friends.html www.midmichpathways.org 200 0 2935 369 234
+2011-04-25 20:41:16 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 4262 371 250
+2011-04-25 20:42:04 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 5115 367 234
+2011-04-25 20:42:29 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 3000 369 218
+2011-04-25 20:49:33 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 67.195.112.234 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 1602 371 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-04-26 00:25:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-04-26 00:25:13 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.71.72 HTTP/1.1 Baiduspider+(+http://www.baidu.com/search/spider.htm) - - midmichpathways.org 200 0 3057 287 1046
