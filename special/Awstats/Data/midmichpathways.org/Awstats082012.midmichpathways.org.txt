@@ -1,0 +1,308 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201208 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2524                
+POS_VISITOR 6833                
+POS_DAY 7858                
+POS_DOMAIN 3177                
+POS_LOGIN 3471                
+POS_ROBOT 3626                
+POS_WORMS 4127                
+POS_EMAILSENDER 4258                
+POS_EMAILRECEIVER 4401                
+POS_SESSION 8123                
+POS_SIDER 8302                
+POS_FILETYPES 4536                
+POS_OS 4685                
+POS_BROWSER 4794                
+POS_SCREENSIZE 5014                
+POS_UNKNOWNREFERER 5088                
+POS_UNKNOWNREFERERBROWSER 5359                
+POS_ORIGIN 5544                
+POS_SEREFERRALS 5678                
+POS_PAGEREFS 5833                
+POS_SEARCHWORDS 6080                
+POS_KEYWORDS 6254                
+POS_MISC 2188                
+POS_ERRORS 6335                
+POS_CLUSTER 3327                
+POS_SIDER_404 6438                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120901020841 41 4460 51687465299
+FirstTime 0
+LastTime 20120825180216
+LastUpdate 20120831230257 5 0 0 3 1
+TotalVisits 20                  
+TotalUnique 20                  
+MonthHostsKnown 10                  
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 10 35049 20 21 66520
+1 2 2 6084 10 11 43279
+2 4 14 541105 12 12 19493
+3 0 0 0 9 10 30603
+4 0 0 0 12 12 22637
+5 1 1 3061 12 14 45374
+6 0 0 0 8 8 12770
+7 8 8 29604 17 18 33537
+8 0 0 0 8 8 19143
+9 0 0 0 8 8 25125
+10 4 10 265793 12 13 152514
+11 7 12 168499 10 12 61728
+12 0 0 0 8 8 10940
+13 7 7 37304 11 11 26077
+14 2 2 3057 11 11 18040
+15 0 0 0 1 1 3057
+16 0 0 0 9 9 33002
+17 0 0 0 5 5 16085
+18 8 8 26928 10 12 40915
+19 0 0 0 15 15 33090
+20 2 2 6076 17 17 32499
+21 0 0 0 11 12 28806
+22 0 0 0 19 21 71368
+23 0 0 0 12 13 31995
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+ip 30 44 524406
+com 12 22 570785
+net 5 5 15190
+lt 2 2 3057
+de 2 2 6084
+md 1 1 3038
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+baiduspider 89 297469 20120831225053 0
+yandex 33 179031 20120831220644 0
+googlebot 22 58063 20120831160220 0
+bot[+:,\.\;\/\\-] 14 16636 20120828143414 0
+[+:,\.\;\/\\-]bot 8 35500 20120830224048 0
+surveybot 2 6084 20120823083555 0
+mnogosearch 1 3061 20120803110012 0
+msnbot\-media 1 17947 20120831011522 0
+netcraft 1 3061 20120806171853 0
+crawl 1 3038 20120811130400 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 9 25461 0 0
+png 4 13412 0 0
+html 52 194235 0 0
+jpg 5 594006 0 0
+js 4 233132 0 0
+jpeg 2 62314 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 14
+winxp 34
+win2003 11
+winnt 5
+Unknown 4
+linux 1
+linuxfedora 7
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+msie8.0 19
+firefox5.0 2
+firefox6.0.2 6
+firefox1.0 1
+firefox14.0.1 14
+firefox3.5.8 2
+msie7.0 17
+lynx 2
+msie9.0 3
+firefox3.5.3 6
+Unknown 2
+firefox3.6.23 1
+firefox3.0.15 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20120811073206
+Lynx/2.8.5rel.1_libwww-FM/2.14FC_SSL-MM/1.4.1b_OpenSSL/0.9.7d-dev 20120809142543
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20120811073206
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 38 41
+From1 0 0
+From2 1 1
+From3 3 3
+From4 10 31
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://extrabot.com/help/bryboviboroguno.htm 2 2
+http://sameid.net/domain/midmichpathways.org/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+midmichpathways.org 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+midmichpathways.org 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 113198
+404 109 145509
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 5
+/images/index.html 1 -
+/robots.txt 104 -
+/wp-login.php 2 -
+/administrator/ 1 -
+/" 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+69.58.178.57 8 8 29604 20120811073909
+198.2.5.108 8 19 425178 20120803111504
+security.lightspeedsystems.com 7 7 26619 20120825180216
+38.100.21.63 7 10 35049 20120816005839
+24-231-180-183.dhcp.bycy.mi.charter.com 4 14 541105 20120803020144
+156-126-113-92.pool.ukrtel.net 2 2 6076 20120803204355
+cl-78-158-11-226.fastlink.lt 2 2 3057 20120809142543
+static.172.63.9.5.clients.your-server.de 2 2 6084 20120805012123
+92.f5.344a.static.theplanet.com 1 1 3061 20120820052746
+206-225-83-10.dedicated.codero.net 1 1 3038 20120825133952
+202.46.60.64 1 1 7756 20120808131453
+202.46.60.18 1 1 4262 20120808131500
+95-65-74-138.starnet.md 1 1 3038 20120820102103
+67.221.59.144 1 1 309 20120819180521
+202.46.61.35 1 1 7756 20120808131453
+202.46.51.47 1 1 5115 20120808131453
+ip-64-202-161-41.secureserver.net 1 1 3038 20120807114015
+ip-64-202-161-46.secureserver.net 1 1 3038 20120807113916
+202.46.55.108 1 1 5115 20120808131459
+202.46.54.125 1 1 4262 20120808131453
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20120803 14 35 972359 3
+20120805 2 2 6084 1
+20120807 2 2 6076 2
+20120808 6 6 34266 6
+20120809 2 2 3057 1
+20120811 8 8 29604 1
+20120816 7 10 35049 1
+20120819 1 1 309 1
+20120820 2 2 6099 2
+20120825 8 8 29657 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+15mn-30mn 1
+30s-2mn 1
+0s-30s 17
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 23 63953 14 10
+/mission.html 7 29739 2 2
+/friends.html 7 54197 2 5
+/faq.html 6 30614 2 2
+/map.html 5 9400 0 1
+/contact.html 4 6332 0 0
+END_SIDER

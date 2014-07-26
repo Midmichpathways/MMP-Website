@@ -1,0 +1,62 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-07 05:32:07
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-01-07 05:32:07 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.68.119 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 1218
+2012-01-07 05:34:17 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 220.181.51.113 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 5115 235 718
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-07 11:45:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-01-07 11:45:30 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 64.202.161.41 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.8)+Gecko/20100202+Firefox/3.5.8+(+.NET+CLR+3.5.30729) - - midmichpathways.org 200 0 3038 245 375
+2012-01-07 11:47:17 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 64.202.161.41 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.8)+Gecko/20100202+Firefox/3.5.8+(+.NET+CLR+3.5.30729) - - midmichpathways.org 200 0 3038 245 125
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 2 1814 143 18656
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /admin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 2 1814 149 18375
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /muieblackcat - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 2 1814 145 18921
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /admin/pma/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 153 18093
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /admin/phpmyadmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 17828
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /db/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 146 17546
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /dbadmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 151 17265
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /myadmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 151 16984
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpmyadmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 154 14890
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpmyadmin2/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 155 14312
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /typo3/phpmyadmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 16140
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpadmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 152 15875
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 154 15593
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /xampp/phpmyadmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 13437
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /mysqladmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 154 16406
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /mysql/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 149 16703
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /web/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 147 10421
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpmyadmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 154 9625
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /php-my-admin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 156 10156
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /websql/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 150 9890
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /php-my-admin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 156 8828
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 154 9359
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpmyadmin1/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 155 14578
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.4/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 7765
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.2.3/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 8546
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.5-rc1/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 164 7500
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /web/phpMyAdmin/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 158 13734
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /pma/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 147 14046
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.5/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 6937
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.1/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 8015
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.6-rc2/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 164 6093
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.5-rc2/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 164 7234
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.5-pl1/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 164 6640
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 156 9093
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.6-rc1/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 164 6359
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.7-pl1/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 164 125
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.2.6/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 8281
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.6/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 5828
+2012-01-07 11:52:38 W3SVC2030797094 WS2 207.241.128.59 GET /phpMyAdmin-2.5.7/index.php - 80 - 77.38.12.98 HTTP/1.1 - - - midmichpathways.org 404 3 1814 160 390
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-07 12:20:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-01-07 12:20:13 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 180.76.5.169 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.midmichpathways.org 200 0 3000 241 500
+2012-01-07 12:20:13 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 180.76.5.166 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.midmichpathways.org 200 0 3061 231 453
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-08 01:42:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-01-08 01:42:57 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 220.181.108.147 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 718

@@ -1,0 +1,365 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201407 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2540                
+POS_VISITOR 7124                
+POS_DAY 10614               
+POS_DOMAIN 3230                
+POS_LOGIN 3594                
+POS_ROBOT 3749                
+POS_WORMS 4196                
+POS_EMAILSENDER 4327                
+POS_EMAILRECEIVER 4470                
+POS_SESSION 10946               
+POS_SIDER 11093               
+POS_FILETYPES 4605                
+POS_OS 4759                
+POS_BROWSER 4846                
+POS_SCREENSIZE 5002                
+POS_UNKNOWNREFERER 5076                
+POS_UNKNOWNREFERERBROWSER 5214                
+POS_ORIGIN 5320                
+POS_SEREFERRALS 5457                
+POS_PAGEREFS 5612                
+POS_SEARCHWORDS 6047                
+POS_KEYWORDS 6260                
+POS_MISC 2204                
+POS_ERRORS 6390                
+POS_CLUSTER 3450                
+POS_SIDER_404 6490                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140725232817 75 13255 80746281472
+FirstTime 20140701022708
+LastTime 20140725232817
+LastUpdate 20140725200352 25 0 21 3 1
+TotalVisits 65                  
+TotalUnique 61                  
+MonthHostsKnown 45                  
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 0 13 15 34035
+1 2 12 746458 10 10 31629
+2 5 15 607659 6 8 20546
+3 2 7 376267 15 15 39734
+4 8 13 399787 5 7 26936
+5 3 8 373847 15 15 40656
+6 1 1 0 17 18 54991
+7 3 3 10775 4 6 48359
+8 0 0 0 15 15 30492
+9 3 8 384023 7 9 90384
+10 0 0 0 7 7 15163
+11 2 7 376267 9 9 25316
+12 2 2 4640 3 3 7898
+13 0 0 0 2 3 5788
+14 14 24 784938 5 5 6732
+15 5 15 752582 24 25 82758
+16 4 12 740389 14 14 54277
+17 8 8 34452 4 4 8424
+18 4 19 1123013 5 7 93269
+19 1 6 373229 8 8 14360
+20 7 12 318324 10 12 65828
+21 1 1 3038 4 5 11442
+22 2 12 599962 2 2 4833
+23 7 27 1287868 11 12 37391
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+ip 34 54 1604410
+com 28 51 1710265
+br 13 78 4705625
+net 4 9 299406
+org 1 1 1583
+cn 1 1 0
+ar 1 6 226733
+mx 1 6 373229
+fr 1 6 373229
+de 1 1 0
+eu 1 1 3038
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[+:,\.\;\/\\-] 51 175828 20140725232705 0
+googlebot 27 81928 20140723230209 0
+yandex 23 76127 20140723053536 0
+baiduspider 22 295512 20140725113922 0
+mj12bot 6 23634 20140724162617 0
+robot 6 23691 20140723081642 0
+surveybot 1 3042 20140702111440 0
+tarantula 1 3057 20140717154811 0
+crawl 1 3061 20140724082542 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 26 59089 0 0
+png 50 164108 0 0
+html 86 286207 0 0
+js 2 116566 0 0
+jpg 49 8640391 0 0
+jpeg 1 31157 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 5
+winxp 17
+winlong 2
+winnt 181
+Unknown 13
+linux 1
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 10
+msie6.0 14
+msie8.0 2
+mozilla 3
+firefox14.0.1 2
+msie7.0 3
+opera 2
+curl 1
+msie9.0 14
+Unknown 12
+safari 161
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+curl/7.35.0 20140718033759
+NerdyBot 20140725170314
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+NerdyBot 20140725170314
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 47 47
+From1 0 0
+From2 4 4
+From3 25 25
+From4 10 138
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://semalt.semalt.com/crawler.php 18 18
+http://youtube-downloader.savetubevideo.com/youtube-downloader.php 3 3
+http://16.kambasoft.com/2.php 1 1
+https://e.mail.ru/message/14109017775/34401620736 1 1
+http://aviasalon.spb.ru/5249.htm 1 1
+http://electrolivefest.spb.ru/news/1228.htm 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+granger+whitelaw+avia 2
+online+reputation+management+akado 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+whitelaw 2
+avia 2
+granger 2
+akado 1
+reputation 1
+online 1
+management 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+405 5 8930
+404 91 156431
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 11
+/wp-includes/css/admin-bar.css 1 https://www.google.com/
+/sitemap.xml 1 -
+/robots.txt 66 -
+/administrator/ 4 -
+/admin.php 5 http://MIDMICHPATHWAYS.ORG
+/index.php 3 -
+/blog 1 -
+/default.php 3 http://midmichpathways.org/default.php
+/wp-login.php 5 -
+/blog/wp-content/themes/twentyfourteen/style.css 1 -
+/manager/index.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 62
+5.10.104.69-static.reverse.softlayer.com 6 6 23520 20140725040543
+188.143.232.211 6 6 23634 20140718171345
+208.43.243.244 5 5 21937 20140723203346
+75-134-118-206.dhcp.aldl.mi.charter.com 4 14 541101 20140725232817 20140725232704 /friends.html
+188.92.76.167 3 3 927 20140716053422
+188.143.232.111 3 3 23268 20140724093825
+104.128.23.118 2 2 9339 20140720145745
+67.210.225.132 2 2 9339 20140719165221
+91.236.75.98 2 2 4659 20140701024821
+109.120.182.26 2 2 6076 20140724045843
+179-190-153-110.cable.cabotelecom.com.br 1 6 373229 20140722051126
+88.148.40.1 1 6 373229 20140716162337
+ip-static-94-242-222-29.as5577.net 1 1 7737 20140701070838
+201-25-92-116.gnace704.dsl.brasiltelecom.net.br 1 6 373229 20140701042315
+200-33-152-60.fernandopolisnet.com.br 1 6 373373 20140716185111
+nat-dc5.es.bluecoat.com 1 1 1583 20140716123640
+vpn.sagchip.org 1 1 1583 20140716144142
+101.154.211.130.bc.googleusercontent.com 1 1 3062 20140702141457
+14.35.148.146.bc.googleusercontent.com 1 1 3062 20140717141726
+static.84.249.40.188.clients.your-server.de 1 1 0 20140719071920
+ptr.cnsat.com.cn 1 1 0 20140702005646
+ec2-54-88-212-207.compute-1.amazonaws.com 1 1 3038 20140701212933
+200.167.29.4 1 6 373373 20140719180721
+188-143-232-6.server.com 1 1 7756 20140720174706
+189-110-199-244.dsl.telesp.net.br 1 6 373229 20140724184446
+103.233.223.199.bc.googleusercontent.com 1 1 3062 20140722141709
+179-99-167-103.dsl.telesp.net.br 1 6 373229 20140717013752
+183.60.243.194 1 1 3057 20140702121317
+238.43.148.146.bc.googleusercontent.com 1 1 3062 20140720154320
+187-19-200-218-clients.static.brisanet.net.br 1 6 373229 20140719142710
+187-85-228-163.user.superitelecom.com.br 1 6 373229 20140723031334
+static-176-182-234-143.ncc.abo.bbox.fr 1 6 373229 20140724011118
+159.47.148.146.bc.googleusercontent.com 1 1 3062 20140724141802
+152.37.148.146.bc.googleusercontent.com 1 1 3062 20140716141710
+223.36.148.146.bc.googleusercontent.com 1 1 3062 20140725170314
+host97.190-137-190.telecom.net.ar 1 6 226733 20140720225920
+119.63.193.194 1 1 0 20140702005733
+ip-static-94-242-222-23.as5577.net 1 1 0 20140702153334
+dsl-187-205-96-121-dyn.prod-infinitum.com.mx 1 6 373229 20140716232256
+75-133-247-35.dhcp.trcy.mi.charter.com 1 6 373229 20140724150816
+162-224-16-29.lightspeed.cicril.sbcglobal.net 1 6 288631 20140718200935
+3.32.148.146.bc.googleusercontent.com 1 1 3062 20140721141727
+226.36.148.146.bc.googleusercontent.com 1 1 3062 20140723150120
+107.170.58.221 1 1 3038 20140718033759
+89.223.53.7 1 1 3038 20140718091829
+181.64.1.116 1 6 373229 20140717022040
+179.185.96.107.static.gvt.net.br 1 6 373229 20140723154905
+163.43.148.146.bc.googleusercontent.com 1 1 3062 20140701141510
+ns321221.ip-37-187-142.eu 1 1 3038 20140701022708
+189-48-242-222.user.veloxzone.com.br 1 6 373229 20140725191427
+54.7.207.91.unknown.steephost.net 1 1 3038 20140724181627
+5.10.104.70-static.reverse.softlayer.com 1 1 0 20140724063505
+179.109.193.91 1 6 373229 20140719110648
+122.39.148.146.bc.googleusercontent.com 1 1 3062 20140719141835
+b3d824d6.virtua.com.br 1 6 373229 20140716233711
+msnbot-199-30-25-50.search.msn.com 0 3 350065 
+bb4303b0.virtua.com.br 1 6 373229 20140717222740
+123.125.244.216 1 1 3038 20140722070216
+177.16.186.173.static.host.gvt.net.br 1 6 373229 20140720140905
+84.125.166.5.dyn.user.ono.com 1 6 373229 20140724095053
+206.32.148.146.bc.googleusercontent.com 1 1 3062 20140718141737
+189-124-6-170.tcvnet.com.br 1 6 226733 20140723025711
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20140701 9 14 402828 8
+20140702 5 5 6119 5
+20140716 9 29 1499906 8
+20140717 5 23 1475852 5
+20140718 11 16 329159 6
+20140719 7 22 1132232 6
+20140720 6 16 620119 5
+20140721 1 1 3062 1
+20140722 3 8 379329 3
+20140723 9 24 998190 5
+20140724 9 29 1509810 9
+20140725 12 27 940912 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 64
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 57 150011 53 51
+/friends.html 9 69728 5 6
+/mission.html 6 25477 2 2
+/faq.html 5 25499 2 1
+/contact.html 5 7953 3 4
+/map.html 4 7539 0 0
+END_SIDER

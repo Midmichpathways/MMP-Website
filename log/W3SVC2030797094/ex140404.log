@@ -1,0 +1,48 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-04 04:18:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-04-04 04:18:39 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 23.251.156.117 HTTP/1.0 NerdyBot - - midmichpathways.org 200 0 3062 104 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-04 04:37:19
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-04-04 04:37:18 W3SVC2030797094 WS2 207.241.128.59 GET /CFIDE/h.cfm - 80 - 162.213.24.40 HTTP/1.0 - - - midmichpathways.org 404 3 1814 75 3140
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-04 13:50:48
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-04-04 13:50:48 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 180.76.5.170 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - midmichpathways.org 404 64 0 191 281
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-04 14:56:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-04-04 14:56:10 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 213.110.133.221 HTTP/1.1 Mozilla/4.0+(compatible;+Blog+Search;) - http://darkhalfe.ru/catalog/april/19.html midmichpathways.org 200 0 3038 149 343
+2014-04-04 14:56:11 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 213.110.133.221 HTTP/1.1 Mozilla/4.0+(compatible;+Blog+Search;) - http://darkhalfe.ru/catalog/april/19.html midmichpathways.org 200 0 3038 149 281
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-04 15:22:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-04-04 15:22:16 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 23.251.159.69 HTTP/1.0 NerdyBot - - midmichpathways.org 200 0 3062 104 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-04 18:02:36
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-04-04 18:02:36 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+help@moz.com) - - midmichpathways.org 404 2 1795 186 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-04 19:03:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-04-04 19:03:58 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+help@moz.com) - - midmichpathways.org 200 0 1880 184 140
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-04 21:03:38
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-04-04 21:03:38 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 23.251.144.210 HTTP/1.0 NerdyBot - - midmichpathways.org 200 0 3062 104 78
+2014-04-04 21:06:22 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 180.76.6.148 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.midmichpathways.org 200 0 3061 225 453
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-05 00:52:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2014-04-05 00:52:10 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 180.76.5.65 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3000 231 640
+2014-04-05 00:52:10 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 180.76.6.28 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 221 468

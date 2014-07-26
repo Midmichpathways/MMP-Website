@@ -1,0 +1,46 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-13 07:02:43
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-13 07:02:42 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 180.76.6.151 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.midmichpathways.org 200 0 1899 233 468
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-13 07:26:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-13 07:26:46 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 91.207.7.13 HTTP/1.0 Opera/9.80+(Windows+NT+6.1;+WOW64;+MRA+6.0+(build+5998))+Presto/2.12.388+Version/12.10 - http://midmichpathways.org/friends.html midmichpathways.org 200 0 7756 471 500
+2013-12-13 07:26:47 W3SVC2030797094 WS2 207.241.128.59 POST /friends.html - 80 - 91.207.7.13 HTTP/1.0 Opera/9.80+(Windows+NT+6.1;+WOW64;+MRA+6.0+(build+5998))+Presto/2.12.388+Version/12.10 - http://midmichpathways.org/friends.html midmichpathways.org 405 1 1786 2920 156
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-13 14:56:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-13 14:56:13 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.73.193 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 404 2 1795 269 31
+2013-12-13 14:56:13 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 66.249.73.193 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 3038 364 93
+2013-12-13 15:04:09 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 66.249.73.193 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 2198 242 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-13 17:26:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-13 17:26:50 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 66.249.73.193 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 7737 376 93
+2013-12-13 17:33:45 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextarea.css - 80 - 66.249.73.193 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 2916 270 78
+2013-12-13 17:33:45 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextField.css - 80 - 66.249.73.193 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 3373 271 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-13 19:13:36
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-13 19:13:36 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 180.76.6.153 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.midmichpathways.org 200 0 3061 225 500
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-13 20:17:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-13 20:17:11 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextarea.css - 80 - 180.76.6.151 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 2935 258 468
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-14 01:09:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-14 01:09:25 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 162.243.100.200 HTTP/1.1 User-Agent:+Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 - - midmichpathways.org 200 0 3038 198 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-14 03:32:41
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-14 03:32:41 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 157.55.32.219 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.midmichpathways.org 404 2 1795 275 62
+2013-12-14 03:40:02 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 180.76.6.151 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 221 515

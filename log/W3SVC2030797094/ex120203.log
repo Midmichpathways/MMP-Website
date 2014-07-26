@@ -1,0 +1,72 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-02-03 11:43:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-02-03 11:43:16 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.68.124 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 1093
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-02-03 15:15:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-02-03 15:15:47 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 119.63.196.102 HTTP/1.1 Baiduspider+(+http://www.baidu.com/search/spider.htm) - - midmichpathways.org 404 64 0 207 218
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-02-03 17:27:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-02-03 17:27:54 W3SVC2030797094 WS2 207.241.128.59 POST /admin/login.php - 80 - 78.29.15.137 HTTP/1.1 - - - midmichpathways.org 404 2 1795 176 390
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-02-03 17:58:51
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-02-03 17:58:51 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCEQFjAA&url=http%3A%2F%2Fmidmichpathways.org%2Ffaq.html&ei=SCAsT_r2N-PJsQLzv6CoDg&usg=AFQjCNEk60wyN-SpJlJPJiFBbaOK1RBuxQ midmichpathways.org 200 0 5096 586 140
+2012-02-03 17:58:51 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/faq.html midmichpathways.org 200 0 2198 388 46
+2012-02-03 17:58:51 W3SVC2030797094 WS2 207.241.128.59 GET /images/background.png - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/faq.html midmichpathways.org 200 0 3068 385 46
+2012-02-03 17:58:51 W3SVC2030797094 WS2 207.241.128.59 GET /images/menu.png - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/faq.html midmichpathways.org 200 0 3638 379 281
+2012-02-03 17:58:51 W3SVC2030797094 WS2 207.241.128.59 GET /images/main.jpg - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/faq.html midmichpathways.org 200 0 343359 379 671
+2012-02-03 17:58:51 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 46
+2012-02-03 17:59:41 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 17:59:42 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/faq.html midmichpathways.org 200 0 7737 436 62
+2012-02-03 17:59:42 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextarea.css - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/friends.html midmichpathways.org 200 0 2916 420 156
+2012-02-03 17:59:42 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextField.js - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/friends.html midmichpathways.org 200 0 77892 405 234
+2012-02-03 17:59:42 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextField.css - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/friends.html midmichpathways.org 200 0 3373 421 265
+2012-02-03 17:59:42 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextarea.js - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/friends.html midmichpathways.org 200 0 38674 404 265
+2012-02-03 17:59:42 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 17:59:43 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/friends.html midmichpathways.org 200 0 1583 440 46
+2012-02-03 17:59:43 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 46
+2012-02-03 17:59:45 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/contact.html midmichpathways.org 200 0 4243 440 109
+2012-02-03 17:59:45 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 17:59:48 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/mission.html midmichpathways.org 200 0 1880 436 46
+2012-02-03 17:59:48 W3SVC2030797094 WS2 207.241.128.59 GET /Mid_Michigan_Community_Pathway_sketch_copy.jpeg - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/map.html midmichpathways.org 200 0 31157 411 109
+2012-02-03 17:59:48 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 17:59:54 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/map.html midmichpathways.org 200 0 2981 434 46
+2012-02-03 17:59:54 W3SVC2030797094 WS2 207.241.128.59 GET /cms2.jpg - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - http://midmichpathways.org/index.html midmichpathways.org 200 0 17928 374 156
+2012-02-03 17:59:54 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 18:00:06 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 18:00:06 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 18:00:07 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 18:00:09 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 46
+2012-02-03 18:00:09 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-02-03 18:22:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-02-03 18:22:53 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 62
+2012-02-03 18:23:04 W3SVC2030797094 WS2 207.241.128.59 GET /grant.html - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 388 31
+2012-02-03 18:23:04 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 18:23:06 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 18:23:10 W3SVC2030797094 WS2 207.241.128.59 GET /tiger.html - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 388 46
+2012-02-03 18:23:10 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 18:23:11 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 46
+2012-02-03 18:23:18 W3SVC2030797094 WS2 207.241.128.59 GET /tiger3.html - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 389 31
+2012-02-03 18:23:18 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 18:23:19 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+2012-02-03 18:23:48 W3SVC2030797094 WS2 207.241.128.59 GET /favicon.ico - 80 - 99.19.70.46 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.77+Safari/535.7 - - midmichpathways.org 404 2 1795 329 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-02-03 23:21:38
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-02-03 23:21:38 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 119.63.196.75 HTTP/1.1 Baiduspider+(+http://www.baidu.com/search/spider.htm) - - www.midmichpathways.org 404 64 0 211 187
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-02-04 01:22:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-02-04 01:22:30 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 220.181.108.106 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 500

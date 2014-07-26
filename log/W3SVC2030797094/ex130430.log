@@ -1,0 +1,51 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-30 11:03:19
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-30 11:03:19 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 208.115.113.88 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - - midmichpathways.org 404 2 1795 194 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-30 12:23:32
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-30 12:23:32 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 208.115.113.88 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - - midmichpathways.org 200 0 4243 196 203
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-30 13:08:37
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-30 13:08:37 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - - midmichpathways.org 404 2 1795 194 78
+2013-04-30 13:10:33 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 157.56.93.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.midmichpathways.org 404 2 1795 275 62
+2013-04-30 13:12:35 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 157.56.93.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.midmichpathways.org 200 0 3042 278 140
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-30 13:29:27
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-30 13:29:27 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - - midmichpathways.org 200 0 3038 184 140
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-30 15:14:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-30 15:14:25 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 220.181.108.100 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 640
+2013-04-30 15:18:26 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 157.56.93.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 404 2 1795 271 62
+2013-04-30 15:21:27 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 157.56.93.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 200 0 3038 274 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-30 16:14:20
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-04-30 16:14:19 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 123.125.67.213 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - midmichpathways.org 404 64 0 191 265
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-05-01 02:45:41
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-05-01 02:45:41 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 198.178.121.123 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+ja;+rv:1.9.2a1pre)+Gecko/20090403+Firefox/3.6a1pre - - www.midmichpathways.org 404 2 1795 292 62
+2013-05-01 02:45:41 W3SVC2030797094 WS2 207.241.128.59 GET /feed - 80 - 198.178.121.122 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+ja;+rv:1.9.2a1pre)+Gecko/20090403+Firefox/3.6a1pre - - www.midmichpathways.org 404 64 0 286 62
+2013-05-01 02:45:41 W3SVC2030797094 WS2 207.241.128.59 GET /blog/feed - 80 - 198.178.121.115 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+ja;+rv:1.9.2a1pre)+Gecko/20090403+Firefox/3.6a1pre - - www.midmichpathways.org 404 3 1795 291 62
+2013-05-01 02:45:41 W3SVC2030797094 WS2 207.241.128.59 GET /external.php type=RSS2 80 - 198.178.121.124 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+ja;+rv:1.9.2a1pre)+Gecko/20090403+Firefox/3.6a1pre - - www.midmichpathways.org 404 2 1795 304 62
+2013-05-01 02:45:41 W3SVC2030797094 WS2 207.241.128.59 GET /forum/external.php type=RSS2 80 - 198.178.121.122 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+ja;+rv:1.9.2a1pre)+Gecko/20090403+Firefox/3.6a1pre - - www.midmichpathways.org 404 3 1795 310 46
+2013-05-01 02:45:41 W3SVC2030797094 WS2 207.241.128.59 GET /forums/external.php type=RSS2 80 - 198.178.121.123 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+ja;+rv:1.9.2a1pre)+Gecko/20090403+Firefox/3.6a1pre - - www.midmichpathways.org 404 3 1795 311 46
+2013-05-01 02:45:41 W3SVC2030797094 WS2 207.241.128.59 GET /rss.html format=feed 80 - 198.178.121.123 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+ja;+rv:1.9.2a1pre)+Gecko/20090403+Firefox/3.6a1pre - - www.midmichpathways.org 404 2 1795 302 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-05-01 03:56:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-05-01 03:56:26 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.73.226 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.midmichpathways.org 404 2 1795 273 31
+2013-05-01 03:56:26 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 66.249.73.226 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.midmichpathways.org 200 0 4243 249 203

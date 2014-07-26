@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-06-20 20:31:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-06-20 20:31:10 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 119.63.196.27 HTTP/1.1 Baiduspider+(+http://www.baidu.com/search/spider.htm) - - midmichpathways.org 404 64 0 207 171
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-06-20 22:17:43
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-06-20 22:17:43 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.71.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 404 2 1795 269 46
+2012-06-20 22:17:43 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 66.249.71.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 200 0 1880 241 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-06-20 22:37:44
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-06-20 22:37:44 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 66.249.71.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://midmichpathways.org/map.html midmichpathways.org 200 0 2198 316 46
+2012-06-20 22:37:48 W3SVC2030797094 WS2 207.241.128.59 GET /images/main.jpg - 80 - 66.249.71.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://midmichpathways.org/map.html midmichpathways.org 200 0 343359 294 531
+2012-06-20 22:37:48 W3SVC2030797094 WS2 207.241.128.59 GET /images/menu.png - 80 - 66.249.71.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://midmichpathways.org/map.html midmichpathways.org 200 0 3638 294 125
+2012-06-20 22:37:48 W3SVC2030797094 WS2 207.241.128.59 GET /images/background.png - 80 - 66.249.71.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://midmichpathways.org/map.html midmichpathways.org 200 0 3068 300 62

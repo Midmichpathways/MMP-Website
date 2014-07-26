@@ -1,0 +1,35 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-04-27 05:29:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-04-27 05:29:25 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 66.249.71.74 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 304 0 215 295 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-04-27 08:01:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-04-27 08:01:22 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 207.46.13.160 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 404 2 1795 271 31
+2012-04-27 08:02:18 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 207.46.13.160 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 200 0 1583 376 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-04-27 14:44:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-04-27 14:44:56 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - - midmichpathways.org 404 2 1795 194 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-04-27 15:33:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-04-27 15:33:26 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 208.115.111.72 HTTP/1.1 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - - midmichpathways.org 200 0 7737 196 218
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-04-27 20:31:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-04-27 20:31:53 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - midmichpathways.org 404 2 1795 338 140
+2012-04-27 20:31:53 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - www.midmichpathways.org 404 2 1795 342 93
+2012-04-27 20:31:56 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - midmichpathways.org 200 0 3038 328 1406
+2012-04-27 20:31:56 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - www.midmichpathways.org 200 0 3042 332 218
+2012-04-27 20:31:58 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - midmichpathways.org 200 0 2981 338 203
+2012-04-27 20:32:00 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - midmichpathways.org 200 0 1880 336 781
+2012-04-27 20:32:00 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - midmichpathways.org 200 0 4243 340 250
+2012-04-27 20:32:02 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - midmichpathways.org 200 0 5096 336 484
+2012-04-27 20:32:03 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - midmichpathways.org 200 0 7737 340 234
+2012-04-27 20:32:05 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 85.17.29.107 HTTP/1.1 Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html) - - midmichpathways.org 200 0 1583 340 125

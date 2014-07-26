@@ -1,0 +1,508 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201203 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2522                
+POS_VISITOR 14890               
+POS_DAY 15391               
+POS_DOMAIN 3105                
+POS_LOGIN 3369                
+POS_ROBOT 3524                
+POS_WORMS 3973                
+POS_EMAILSENDER 4104                
+POS_EMAILRECEIVER 4247                
+POS_SESSION 15568               
+POS_SIDER 15714               
+POS_FILETYPES 4382                
+POS_OS 4463                
+POS_BROWSER 4536                
+POS_SCREENSIZE 4642                
+POS_UNKNOWNREFERER 4716                
+POS_UNKNOWNREFERERBROWSER 4803                
+POS_ORIGIN 4885                
+POS_SEREFERRALS 5017                
+POS_PAGEREFS 5161                
+POS_SEARCHWORDS 5383                
+POS_KEYWORDS 5535                
+POS_MISC 2186                
+POS_ERRORS 5594                
+POS_CLUSTER 3225                
+POS_SIDER_404 5695                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120412040542 5 322 48336594507
+FirstTime 0
+LastTime 20120310235153
+LastUpdate 20120412223611 5 0 0 3 1
+TotalVisits 7                   
+TotalUnique 7                   
+MonthHostsKnown 7                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 2 4852
+1 0 0 0 4 4 12152
+2 2 2 6114 2 2 1795
+3 0 0 0 15 18 41839
+4 0 0 0 5 5 9708
+5 0 0 0 5 5 16423
+6 0 0 0 4 4 6891
+7 0 0 0 2 2 1795
+8 1 2 5179 4 4 13851
+9 0 0 0 3 3 1795
+10 0 0 0 6 6 7228
+11 2 2 6076 7 9 40096
+12 0 0 0 6 6 21174
+13 0 0 0 6 6 10025
+14 2 2 6076 4 5 10572
+15 0 0 0 2 2 4243
+16 0 0 0 2 2 1795
+17 0 0 0 4 4 8527
+18 0 0 0 4 9 10242
+19 0 0 0 2 2 3057
+20 0 0 0 7 7 13928
+21 5 5 22089 284 285 78294
+22 0 0 0 3 3 12871
+23 1 2 5179 1 1 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ru 5 5 22089
+net 4 4 12152
+de 2 2 6114
+com 2 4 10358
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+baiduspider 30 96173 20120311033859 0
+googlebot 9 25044 20120311043419 0
+bot[+:,\.\;\/\\-] 8 1583 20120311055325 0
+crawl 7 26726 20120310035024 0
+[+:,\.\;\/\\-]bot 5 24300 20120305181850 0
+yandex 4 12152 20120308012238 0
+robot 4 20057 20120311052555 0
+surveybot 1 3042 20120307111439 0
+seznambot 1 0 20120302024652 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+css 2 4396 0 0
+html 13 46317 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 4
+winxp 9
+win2003 2
+winnt 3
+linux 1
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 5
+msie6.0 5
+firefox5.0 2
+msie7.0 4
+firefox3.5.8 2
+opera 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 10
+From1 0 0
+From2 0 0
+From3 3 3
+From4 0 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://extrabot.com/help/bryboviboroguno.htm 2 2
+http://test31337.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+405 1 1786
+404 326 122290
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 250
+/_admin/scripts/setup.php 1 -
+/.phpmyadmin/scripts/setup.php 2 -
+/mysql211/scripts/setup.php 1 -
+/phpMyA/scripts/setup.php 1 -
+/My-php/scripts/setup.php 1 -
+/_v2.8/scripts/setup.php 1 -
+/admdb/scripts/setup.php 1 -
+/wbsadmin/html/scripts/setup.php 1 -
+/pma_2/scripts/setup.php 1 -
+/admin/mysql/scripts/setup.php 1 -
+/phpmya/scripts/setup.php 2 -
+/sqladm.old/scripts/setup.php 1 -
+/myadmin/MyAdmin/scripts/setup.php 1 -
+/myad/scripts/setup.php 1 -
+/mysql_admin/scripts/setup.php 1 -
+/phpMyAdmin-2.8.3/scripts/setup.php 1 -
+/_phpmyadmin_db3/scripts/setup.php 2 -
+/_phpmyadmin_db4/scripts/setup.php 2 -
+/phpmyadmin2/scripts/setup.php 1 -
+/db_backup/scripts/setup.php 1 -
+/admin/pmadm/scripts/setup.php 1 -
+/msql/scripts/setup.php 1 -
+/xx_phpmyadmin/scripts/setup.php 1 -
+/db2011/scripts/setup.php 1 -
+/php211/scripts/setup.php 1 -
+/phpMyAdmin-3.0.0-rc2/scripts/setup.php 1 -
+/_myphp/scripts/setup.php 1 -
+/phpma1/scripts/setup.php 1 -
+/php2/scripts/setup.php 1 -
+/_myadmin/scripts/setup.php 1 -
+/phpMyAdmin2011/scripts/setup.php 2 -
+/cbadmin2/scripts/setup.php 1 -
+/phpMyAdmini/scripts/setup.php 1 -
+/my/scripts/setup.php 1 -
+/phpmyadmin1/scripts/setup.php 1 -
+/sasapma/scripts/setup.php 1 -
+/2010/phpMyAdmin/scripts/setup.php 1 -
+/_db_man_aa/scripts/setup.php 1 -
+/pmy/scripts/setup.php 2 -
+/admin/db/scripts/setup.php 1 -
+/sqladm/scripts/setup.php 1 -
+/phpadmin2011/scripts/setup.php 1 -
+/phpMyAdmin-2.11.9.4/scripts/setup.php 1 -
+/phpMyAdmin-2.11.5-english/scripts/setup.php 1 -
+/phpMyAdmin-2.11.4/scripts/setup.php 1 -
+/fckeditor/editor/images/anchor.gif 3 -
+/phpadmin/scripts/setup.php 1 -
+/_old2/phpMyAdmin/scripts/setup.php 1 -
+/_dbadmin/scripts/setup.php 1 -
+/phpMyAdmin-2.11.7.1-all-languages-utf-8-only/scripts/setup.php 1 -
+/phpMyAdmin_for_upload/scripts/setup.php 1 -
+/phpas/scripts/setup.php 1 -
+/PmA/scripts/setup.php 1 -
+/pxA/scripts/setup.php 1 -
+/phpadmin_old/scripts/setup.php 1 -
+/admin/mysqladmin/scripts/setup.php 1 -
+/phpMyAdmin-2.8.1/scripts/setup.php 1 -
+/phpmyadmin32/scripts/setup.php 1 -
+/_old/phpMyAdmin/scripts/setup.php 1 -
+/db2/scripts/setup.php 1 -
+/phpMyAdmin.old/scripts/setup.php 1 -
+/phpMyAdmin-2.11.9.3/scripts/setup.php 1 -
+/nildbnil/scripts/setup.php 1 -
+/phpmyadmin/myadmin/scripts/setup.php 1 -
+/phpmyadmin123/scripts/setup.php 1 -
+/php1/scripts/setup.php 1 -
+/phpMyAdmin/scripts/setup.php 1 -
+/mysql_administrator/scripts/setup.php 1 -
+/phpMyAdmin-2.9.1/scripts/setup.php 1 -
+/admin--/mysqladmin/scripts/setup.php 1 -
+/dvphp/phpmyadmin/scripts/setup.php 1 -
+/phpMyAdmin-2.11.1-all-languages/scripts/setup.php 1 -
+/.pma/scripts/setup.php 1 -
+/wp-login.php 1 -
+/admin/my/scripts/setup.php 1 -
+/phpmyadmin-bkp/scripts/setup.php 1 -
+/_hidden_myadmin_/scripts/setup.php 1 -
+/_phpmyadmin/scripts/setup.php 1 -
+/.phpadmin/scripts/setup.php 1 -
+/phpmyadmin-ramy/scripts/setup.php 1 -
+/phpadmin211/scripts/setup.php 1 -
+/phpmyadm/scripts/setup.php 1 -
+/mysql/scripts/setup.php 1 -
+/phpMyAdmin393/scripts/setup.php 1 -
+/db_my/scripts/setup.php 2 -
+/sql211/scripts/setup.php 1 -
+/databaseadmin/scripts/setup.php 1 -
+/FCKeditor/editor/images/anchor.gif 4 -
+/pmadm/scripts/setup.php 1 -
+/m_a/scripts/setup.php 1 -
+/_sql1/scripts/setup.php 1 -
+/MySQL/scripts/setup.php 1 -
+/phpMyAdmin-2.8.2.2/scripts/setup.php 1 -
+/phpMyAdminpcs41/scripts/setup.php 1 -
+/dcgadmin/scripts/setup.php 1 -
+/wp-pma-mod/scripts/setup.php 1 -
+/phpMyAdmin-2.9.0/scripts/setup.php 1 -
+/phpMyAdmin-2.11.11.3/scripts/setup.php 1 -
+/copiaphpmyadmin/scripts/setup.php 1 -
+/myadmin/phpMyAdmin-2.11.9.6-all-languages/scripts/setup.php 2 -
+/phpmyadmin_old/phpmyadmin/scripts/setup.php 1 -
+/phpM/scripts/setup.php 2 -
+/mydb/scripts/setup.php 3 -
+/_php/scripts/setup.php 1 -
+/_bon_dbadmin/scripts/setup.php 3 -
+/myadmin2/scripts/setup.php 2 -
+/pmy/phpMyAdmin-2.10.0.2-english/scripts/setup.php 1 -
+/admsql1/scripts/setup.php 1 -
+/pmabd/scripts/setup.php 1 -
+/dbadm/phpMyAdmin/scripts/setup.php 1 -
+/" 2 -
+/_db/scripts/setup.php 1 -
+/pma2/scripts/setup.php 1 -
+/phpmycube/scripts/setup.php 1 -
+/webapps/scripts/setup.php 1 -
+/webmail2/scripts/setup.php 1 -
+/phpMyAdmin-2/scripts/setup.php 1 -
+/myadmin_a/scripts/setup.php 1 -
+/dba/scripts/setup.php 1 -
+/phpmyadmin/2.11.9.4/htdocs/scripts/setup.php 1 -
+/myAdmin/scripts/setup.php 1 -
+/phpmyadminnemo/scripts/setup.php 1 -
+/phpMyAdmin-2.11.9.5/scripts/setup.php 2 -
+/adm/scripts/setup.php 1 -
+/phpMyAdmin-3.0.0-all-languages/scripts/setup.php 1 -
+/phpMyAdmin-2.11.1.2-all-languages/scripts/setup.php 1 -
+/phpmy/my/scripts/setup.php 1 -
+/pma_ai/scripts/setup.php 2 -
+/data_admin/scripts/setup.php 1 -
+/etetetet.old/scripts/setup.php 1 -
+/phpMyAdmin-old/scripts/setup.php 1 -
+/SQL/scripts/setup.php 1 -
+/rcsu_mydb/scripts/setup.php 1 -
+/robots.txt 37 -
+/phpmyadmin/2.11.10/htdocs/scripts/setup.php 1 -
+/pma2.11.10/scripts/setup.php 1 -
+/phpmysql/scripts/setup.php 1 -
+/admin/myadmin/scripts/setup.php 2 -
+/phpmyadmin/phpMyAdmin-2.11.5-english/scripts/setup.php 1 -
+/sql/scripts/setup.php 1 -
+/phpMyAdmin-2.10.0.2/scripts/setup.php 1 -
+/dbAdmin/scripts/setup.php 1 -
+/wp-phpmyadmin/phpmyadmin/scripts/setup.php 2 -
+/phpad/scripts/setup.php 1 -
+/phpMyAdmin-2.11.1/scripts/setup.php 2 -
+/phpMyAdmin-2.11.2.2-all-languages/scripts/setup.ph 1 -
+/phpMyAdmin-2.11.8.1-all-languages/scripts/setup.php 1 -
+/phpMyAdmin-2.8.2/scripts/setup.php 2 -
+/admin/sql/scripts/setup.php 1 -
+/adminphp/scripts/setup.php 2 -
+/phpMyAdmin-3.0.0/scripts/setup.php 1 -
+/pma_bk/scripts/setup.php 1 -
+/sqladmin_old/scripts/setup.php 1 -
+/sql2011/scripts/setup.php 1 -
+/my_sql_admin/scripts/setup.php 1 -
+/phpmyadmin29/scripts/setup.php 1 -
+/phpMyAdmin-2.11.9.4-all-languages/scripts/setup.php 1 -
+/phpmyadmin_old/scripts/setup.php 1 -
+/habr/scripts/setup.php 1 -
+/php_jibin/scripts/setup.php 1 -
+/dbnimba/scripts/setup.php 2 -
+/2011/phpMyAdmin/scripts/setup.php 1 -
+/phpMyAdmin-english/scripts/setup.php 2 -
+/webadmin/scripts/setup.php 1 -
+/phpma/scripts/setup.php 1 -
+/scripts/setup.php 2 -
+/phpMyAdmin/phpMyAdmin/scripts/setup.php 1 -
+/phpAdmin/scripts/setup.php 1 -
+/~phpmyadmin21152/scripts/setup.php 1 -
+/phpmysql/sql/scripts/setup.php 2 -
+/html/scripts/setup.php 1 -
+/backup/scripts/setup.php 1 -
+/backup/phpmyadmin/scripts/setup.php 1 -
+/adminn/scripts/setup.php 2 -
+/pma_mydb/scripts/setup.php 1 -
+/pma-profis/scripts/setup.php 1 -
+/PMYADM/phpMyAdmin-2.10.0.2-english/scripts/setup.php 1 -
+/Phpmyadmin/scripts/setup.php 2 -
+/pma_rs/scripts/setup.php 1 -
+/old/phpmyadmin/scripts/setup.php 1 -
+/db1/scripts/setup.php 1 -
+/phpmyadmin_xxx/scripts/setup.php 1 -
+/_sql/scripts/setup.php 1 -
+/myadmin/scripts/setup.php 1 -
+/.phpMyAdmin/scripts/setup.php 1 -
+/phpMyAdminco/scripts/setup.php 1 -
+/phpMyAdmin-2.11.2.2-all-languages/scripts/setup.php 1 -
+/phpMyAdmin-2.11.6-all-languages/scripts/setup.php 1 -
+/PMA/scripts/setup.php 1 -
+/php2011/scripts/setup.php 1 -
+/phpMyAdmin-2.11.11.3-english/scripts/setup.php 1 -
+/db3/scripts/setup.php 1 -
+/phpMyAdmin-2.10.0.2-english/scripts/setup.php 1 -
+/myphp/scripts/setup.php 1 -
+/phpMyAdmin211/scripts/setup.php 2 -
+/phpmyadminx/scripts/setup.php 1 -
+/phpmyadmin/2.11.9.6/htdocs/scripts/setup.php 1 -
+/phpMyAdmin-2.11.4-all-languages-utf-8-only/scripts/setup.php 1 -
+/___pma/scripts/setup.php 1 -
+/.dbadmin/scripts/setup.php 1 -
+/_phpMyAdmin/scripts/setup.php 1 -
+/portable-phpmyadmin/wp-pma-mod/scripts/setup.php 1 -
+/mysql2011/scripts/setup.php 1 -
+/pma1/scripts/setup.php 1 -
+/mysqladmin/scripts/setup.php 1 -
+/phpmyadmin2011/scripts/setup.php 1 -
+/phpMyAdmin-2.10.3/scripts/setup.php 1 -
+/_qsql/scripts/setup.php 1 -
+/adminsql/scripts/setup.php 1 -
+/phpMyAdmin-1/scripts/setup.php 1 -
+/dbadmin/scripts/setup.php 1 -
+/dbadmin2011/scripts/setup.php 1 -
+/pma_tpfocus/scripts/setup.php 1 -
+/phpMyAdmin-3/scripts/setup.php 1 -
+/phpmyadmin/scripts/setup.php 1 -
+/admm/scripts/setup.php 1 -
+/PMYADM/scripts/setup.php 1 -
+/mysql-old/scripts/setup.php 1 -
+/!mysql/scripts/setup.php 1 -
+/pmadm-2.11.3cr1/scripts/setup.php 1 -
+/phpmyadmin_2.10/scripts/setup.php 3 -
+/sgl/scripts/setup.php 1 -
+/pmaold/scripts/setup.php 2 -
+/xxmy_admin.old/scripts/setup.php 1 -
+/db4/scripts/setup.php 1 -
+/Admin/scripts/setup.php 1 -
+/http 1 -
+/rootsql/scripts/setup.php 1 -
+/Files/scripts/setup.php 1 -
+/phpMyAdmin-2.11.11-all-languages/scripts/setup.php 1 -
+/phpMyAdmin-2.11.5/scripts/setup.php 1 -
+/dbadmin211/scripts/setup.php 1 -
+/prog/scripts/setup.php 1 -
+/phpMyAdmin-2.11.5.1-all-languages/scripts/setup.php 1 -
+/aadm/pma/scripts/setup.php 1 -
+/_phpmyadmin/_v2.8/scripts/setup.php 1 -
+/phpMyAdmin-2.9.0.3/scripts/setup.php 1 -
+/.bash/scripts/setup.php 1 -
+/ladminadminl/scripts/setup.php 1 -
+/admsql/scripts/setup.php 1 -
+/phpMyAdmin-2.11.10.1/scripts/setup.php 1 -
+/madm/scripts/setup.php 3 -
+/pma3/scripts/setup.php 1 -
+/adminBD/scripts/setup.php 1 -
+/db/scripts/setup.php 1 -
+/pma211/scripts/setup.php 2 -
+/db_admin/scripts/setup.php 1 -
+/phpmyadmin2.11.1/scripts/setup.php 1 -
+/phpma12345/scripts/setup.php 1 -
+/examples/scripts/setup.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+dynamicip-176-213-161-172.pppoe.nsk.ertelecom.ru 5 5 22089 20120304211946
+static.200.95.4.46.clients.your-server.de 2 2 6114 20120303021531
+214-199-200-46.pool.ukrtel.net 2 2 6076 20120306145204
+ip-64-202-161-47.secureserver.net 1 1 3038 20120307114359
+ip-64-202-161-41.secureserver.net 1 1 3038 20120307114440
+msnbot-207-46-12-60.search.msn.com 1 2 5179 20120310235153
+msnbot-207-46-12-28.search.msn.com 1 2 5179 20120308081857
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20120303 2 2 6114 1
+20120304 5 5 22089 1
+20120306 2 2 6076 1
+20120307 2 2 6076 2
+20120308 1 2 5179 1
+20120310 1 2 5179 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 9 27285 7 6
+/mission.html 1 4262 0 0
+/friends.html 1 7756 0 1
+/map.html 1 1899 0 0
+/faq.html 1 5115 0 0
+END_SIDER

@@ -1,0 +1,36 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-06 08:00:23
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-06 08:00:23 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.68.116 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 2328
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-06 13:11:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-06 13:11:03 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 65.52.109.73 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 404 2 1795 271 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-06 13:53:48
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-06 13:53:48 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 65.52.109.73 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 200 0 1583 376 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-06 14:52:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-06 14:52:00 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 46.200.199.214 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:5.0)+Gecko/20100101+Firefox/5.0 - - midmichpathways.org 404 2 1795 438 187
+2012-03-06 14:52:02 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 46.200.199.214 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:5.0)+Gecko/20100101+Firefox/5.0 - - midmichpathways.org 404 2 1795 438 187
+2012-03-06 14:52:03 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 46.200.199.214 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:5.0)+Gecko/20100101+Firefox/5.0 - - midmichpathways.org 404 2 1795 438 187
+2012-03-06 14:52:03 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 46.200.199.214 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:5.0)+Gecko/20100101+Firefox/5.0 - http://extrabot.com/help/bryboviboroguno.htm midmichpathways.org 200 0 3038 483 437
+2012-03-06 14:52:04 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 46.200.199.214 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:5.0)+Gecko/20100101+Firefox/5.0 - http://extrabot.com/help/bryboviboroguno.htm midmichpathways.org 200 0 3038 483 359
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-06 18:38:06
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-06 18:38:06 W3SVC2030797094 WS2 207.241.128.59 GET /SpryAssets/SpryValidationTextarea.css - 80 - 180.76.5.96 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.midmichpathways.org 200 0 2935 352 515
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-07 03:56:05
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2012-03-07 03:56:05 W3SVC2030797094 WS2 207.241.128.59 HEAD /fckeditor/editor/images/anchor.gif - 80 - 188.138.113.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - - MIDMICHPATHWAYS.ORG 404 3 184 192 171
+2012-03-07 03:56:05 W3SVC2030797094 WS2 207.241.128.59 HEAD /fckeditor/editor/images/anchor.gif - 80 - 188.138.113.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - - MIDMICHPATHWAYS.ORG 404 3 184 192 109
+2012-03-07 03:56:10 W3SVC2030797094 WS2 207.241.128.59 HEAD /fckeditor/editor/images/anchor.gif - 80 - 188.138.113.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - - MIDMICHPATHWAYS.ORG 404 3 184 192 125

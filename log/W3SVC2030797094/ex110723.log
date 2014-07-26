@@ -1,0 +1,34 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-07-23 08:06:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-07-23 08:06:08 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 404 2 1814 200 78
+2011-07-23 08:06:09 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 3061 359 203
+2011-07-23 08:06:11 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/ www.midmichpathways.org 200 0 2217 329 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-07-23 10:45:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-07-23 10:45:03 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 123.125.71.88 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - midmichpathways.org 200 0 3057 227 1031
+2011-07-23 10:45:37 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 404 2 1814 200 2484
+2011-07-23 10:45:37 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 4262 371 250
+2011-07-23 10:45:40 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/mission.html www.midmichpathways.org 304 0 234 431 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-07-23 15:46:24
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-07-23 15:46:24 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 207.46.199.51 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 404 2 1795 271 15
+2011-07-23 15:47:07 W3SVC2030797094 WS2 207.241.128.59 GET /mission.html - 80 - 207.46.199.51 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - midmichpathways.org 200 64 0 376 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-07-23 18:50:05
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-07-23 18:50:05 W3SVC2030797094 WS2 207.241.128.59 GET /faq.html - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 5115 367 218
+2011-07-23 18:50:06 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/faq.html www.midmichpathways.org 304 0 234 427 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-07-24 03:34:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-07-24 03:34:30 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 404 2 1814 200 125
+2011-07-24 03:34:30 W3SVC2030797094 WS2 207.241.128.59 GET /map.html - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.midmichpathways.org 200 0 1899 367 109
+2011-07-24 03:34:31 W3SVC2030797094 WS2 207.241.128.59 GET /style.css - 80 - 67.195.111.154 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - http://www.midmichpathways.org/map.html www.midmichpathways.org 304 0 234 427 93

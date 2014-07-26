@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-04-22 02:48:38
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2011-04-22 02:48:37 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 109.230.217.147 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98;+Win+9x+4.90) - http://midmichpathways.org/ midmichpathways.org 200 0 3057 169 312

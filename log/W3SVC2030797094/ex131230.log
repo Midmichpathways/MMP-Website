@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-30 05:28:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-30 05:28:50 W3SVC2030797094 WS2 207.241.128.59 GET /index.html - 80 - 192.99.9.228 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686;+en-US;+rv:1.9.2.23)+Gecko/20110921+Ubuntu/10.04+(lucid)+Firefox/3.6.23 - - midmichpathways.org 200 0 3038 414 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-30 08:11:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-30 08:11:57 W3SVC2030797094 WS2 207.241.128.59 GET /contact.html - 80 - 66.249.75.129 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 304 0 215 426 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-30 08:59:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-30 08:59:55 W3SVC2030797094 WS2 207.241.128.59 GET /wp-admin/ - 80 - 37.17.181.222 HTTP/1.1 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) wordpress_test_cookie=WP+Cookie+check - MIDMICHPATHWAYS.ORG 404 64 0 318 250
+2013-12-30 08:59:57 W3SVC2030797094 WS2 207.241.128.59 GET /wordpress/wp-admin/ - 80 - 37.17.181.222 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_2)+AppleWebKit/537.17+(KHTML,+like+Gecko)+Chrome/24.0.1309.0+Safari/537.17 wordpress_test_cookie=WP+Cookie+check - MIDMICHPATHWAYS.ORG 404 64 0 389 281
+2013-12-30 08:59:57 W3SVC2030797094 WS2 207.241.128.59 GET /blog/wp-admin/ - 80 - 37.17.180.94 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2;+Win64;+x64;+rv:16.0.1)+Gecko/20121011+Firefox/16.0.1 wordpress_test_cookie=WP+Cookie+check - MIDMICHPATHWAYS.ORG 404 64 0 347 265
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-30 13:07:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-30 13:07:11 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 66.249.75.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 404 2 1795 269 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-30 23:26:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-30 23:26:54 W3SVC2030797094 WS2 207.241.128.59 GET /friends.html - 80 - 66.249.75.129 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - midmichpathways.org 304 0 215 426 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-12-31 02:32:18
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2013-12-31 02:32:18 W3SVC2030797094 WS2 207.241.128.59 GET /robots.txt - 80 - 157.55.32.114 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.midmichpathways.org 404 2 1795 275 46

@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>Mid Michigan Community Pathways Friends</title>
+<script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
+<script src="SpryAssets/SpryValidationTextarea.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
+<link href="SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="container">
+	  <div id="mainpic"></div>   
+        
+        <div id="menu">
+   	  <ul>
+            	<li class="menuitem"><a href="index.html">Home</a></li>
+                <li class="menuitem"><a href="map.html">Map</a></li>
+                <li class="menuitem"><a href="mission.html">Mission</a></li>
+                <li class="menuitem"><a href="faq.html">FAQ</a></li>
+                <li class="menuitem"><a href="friends.html">Friends of</a></li>
+              <li class="menuitem"><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+        
+		<div id="content">
+        	<h1>Friends Of</h1>
+      <p>&nbsp;</p>
+           	<div>
+           	  <h3>If you would like to show your support for the   Mid-Michigan Community Pathways please provide us with the following contact   information, along with any questions, comments, or suggestions you might   have.</h3>
+           	</div>
+           	<h3>&nbsp;</h3>
+          <table width="717" height="37" border="0">
+   	          <tr>
+   	            <td width="197">&nbsp;</td>
+   	            <td width="510"><p>&nbsp;</p>
+                  <form id="formMail" name="formMail" method="post" action="">
+                    <p><span id="nameTextfield">
+                    <label for="name"></label>
+                    <input type="text" name="name" id="name" />
+                    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span><span class="textfieldMaxCharsMsg">Exceeded maximum number of characters.</span></span></p>
+                    <p><span id="name2TextField">
+                    <label for="name2"></label>
+                    <input type="text" name="name2" id="name2" />
+                    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span><span class="textfieldMaxCharsMsg">Exceeded maximum number of characters.</span></span></p>
+                    <p><span id="addressTextField">
+                    <label for="Address"></label>
+                    <input type="text" name="Address" id="Address" />
+                    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span><span class="textfieldMaxCharsMsg">Exceeded maximum number of characters.</span></span></p>
+                    <p><span id="CityTextField">
+                    <label for="City"></label>
+                    <input type="text" name="City" id="City" />
+                    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span><span class="textfieldMaxCharsMsg">Exceeded maximum number of characters.</span></span></p>
+                    <p><span id="StateTextField">
+                    <label for="State"></label>
+                    <input type="text" name="State" id="State" />
+                    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span><span class="textfieldMaxCharsMsg">Exceeded maximum number of characters.</span></span></p>
+                    <p><span id="ZipTextField">
+                    <label for="Zip Code"></label>
+                    <input type="text" name="Zip Code" id="Zip Code" />
+                    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span></p>
+                    <p><span id="PhoneTextField">
+                    <label for="Phone"></label>
+                    <input type="text" name="Phone" id="Phone" />
+                    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span><span class="textfieldMaxCharsMsg">Exceeded maximum number of characters.</span></span></p>
+                    <p><span id="emailTextField">
+                    <label for="email"></label>
+                    <input type="text" name="email" id="email" />
+                    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span><span class="textfieldMaxCharsMsg">Exceeded maximum number of characters.</span></span></p>
+                    <p><span id="commentsTextArea">
+                    <label for="Comments"></label>
+                    <textarea name="Comments" id="Comments" cols="45" rows="5"></textarea>
+                    <span class="textareaRequiredMsg">A value is required.</span><span class="textareaMaxCharsMsg">Exceeded maximum number of characters.</span></span></p>
+                    <p>
+                      <input type="submit" name="Submit" id="Submit" value="Submit" />
+                    </p>
+                    <p>&nbsp;</p>
+                  </form>
+                  <p>&nbsp;</p>
+                <p>&nbsp;</p></td>
+            </tr>
+          </table>
+          <p>&nbsp;</p>
+<p>&nbsp;</p>
+        	<p>&nbsp;</p>
+<p>&nbsp;</p>
+	  </div>
+</div>
+<div style="text-align: center; font-size: 0.75em;"></div>
+<script type="text/javascript">
+var sprytextfield1 = new Spry.Widget.ValidationTextField("nameTextfield", "none", {hint:"First Name", minChars:1, maxChars:50, validateOn:["blur"]});
+var sprytextfield2 = new Spry.Widget.ValidationTextField("name2TextField", "none", {hint:"Last Name", minChars:1, maxChars:50, validateOn:["blur"]});
+var sprytextfield3 = new Spry.Widget.ValidationTextField("addressTextField", "none", {hint:"Address", minChars:1, maxChars:100, validateOn:["blur"]});
+var sprytextfield4 = new Spry.Widget.ValidationTextField("CityTextField", "none", {hint:"City", minChars:1, maxChars:50, validateOn:["blur"]});
+var sprytextfield5 = new Spry.Widget.ValidationTextField("StateTextField", "none", {hint:"State", minChars:1, maxChars:50, validateOn:["blur"]});
+var sprytextfield6 = new Spry.Widget.ValidationTextField("ZipTextField", "zip_code", {hint:"Zip Code", validateOn:["blur"]});
+var sprytextfield7 = new Spry.Widget.ValidationTextField("PhoneTextField", "none", {hint:"Phone Number", validateOn:["blur"], minChars:1, maxChars:20});
+var sprytextfield8 = new Spry.Widget.ValidationTextField("emailTextField", "email", {hint:"Email", minChars:1, maxChars:100, validateOn:["blur"]});
+var sprytextarea1 = new Spry.Widget.ValidationTextarea("commentsTextArea", {minChars:0, maxChars:"1,000", validateOn:["blur"]});
+</script>
+</body>
+</html>
