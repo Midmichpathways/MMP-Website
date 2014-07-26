@@ -1,0 +1,295 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201302 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2537                
+POS_VISITOR 6769                
+POS_DAY 7532                
+POS_DOMAIN 3144                
+POS_LOGIN 3412                
+POS_ROBOT 3567                
+POS_WORMS 4045                
+POS_EMAILSENDER 4176                
+POS_EMAILRECEIVER 4319                
+POS_SESSION 7738                
+POS_SIDER 7895                
+POS_FILETYPES 4454                
+POS_OS 4586                
+POS_BROWSER 4685                
+POS_SCREENSIZE 4900                
+POS_UNKNOWNREFERER 4974                
+POS_UNKNOWNREFERERBROWSER 5264                
+POS_ORIGIN 5475                
+POS_SEREFERRALS 5608                
+POS_PAGEREFS 5763                
+POS_SEARCHWORDS 5945                
+POS_KEYWORDS 6119                
+POS_MISC 2201                
+POS_ERRORS 6200                
+POS_CLUSTER 3268                
+POS_SIDER_404 6299                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130301022732 46 6055 54116507806
+FirstTime 20130201005159
+LastTime 20130226152531
+LastUpdate 20130228220338 5 0 0 3 1
+TotalVisits 16                  
+TotalUnique 16                  
+MonthHostsKnown 5                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 0 3 5 8868
+1 0 0 0 5 6 92673
+2 0 0 0 6 6 12750
+3 0 0 0 2 3 7050
+4 0 0 0 9 11 28143
+5 13 13 48061 20 21 57906
+6 0 0 0 13 14 38942
+7 0 0 0 11 11 21286
+8 0 0 0 6 6 13932
+9 0 0 0 6 7 27114
+10 0 0 0 2 4 58435
+11 3 3 9133 10 11 22299
+12 0 0 0 3 3 9755
+13 3 3 11276 8 8 17564
+14 1 2 5274 6 7 17886
+15 3 13 424778 2 2 6080
+16 7 7 26726 8 8 22425
+17 2 2 0 8 9 26100
+18 1 1 3038 3 3 4833
+19 0 0 0 3 3 7833
+20 0 0 0 13 15 55914
+21 0 0 0 9 9 22340
+22 0 0 0 9 9 28553
+23 0 0 0 5 6 57377
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ip 23 33 484130
+net 10 10 35840
+ru 1 2 5274
+com 1 1 3042
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+baiduspider 62 386288 20130228201744 0
+googlebot 26 81572 20130228062026 0
+bot[+:,\.\;\/\\-] 16 49728 20130228150932 0
+yandex 6 18228 20130228050601 0
+[+:,\.\;\/\\-]bot 6 16458 20130228053052 0
+no_user_agent 4 12245 20130226040017 0
+mediapartners\-google 2 6076 20130225014529 0
+surveybot 1 3042 20130211072630 0
+netcraft 1 3061 20130206045208 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 2 4415 0 0
+png 6 20118 0 0
+html 35 111309 0 0
+jpg 2 361287 0 0
+jpeg 1 31157 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 6
+winxp 20
+winlong 4
+linuxdebian 1
+winnt 3
+Unknown 3
+linux 15
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+msie8.0 13
+firefox5.0 1
+firefox6.0.2 3
+firefox3.5.8 2
+firefox14.0.1 7
+msie7.0 6
+firefox16.0 1
+msie10.0 1
+firefox6.0 1
+lynx 1
+Unknown 2
+firefox11.0 7
+firefox3.0.5 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130207050326
+Lynx/2.8.6rel.4_libwww-FM/2.14_SSL-MM/1.4.1_OpenSSL/0.9.8g 20130224055254
+Mozila/5.0 20130201110340
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130207050326
+Mozila/5.0 20130201110340
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 25
+From1 0 0
+From2 1 1
+From3 1 1
+From4 8 19
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.facebook.com/l.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+midmichpathways.org 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+midmichpathways.org 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 3085
+404 62 86275
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 5
+/administrator/index.php 1 -
+/myadmin/scripts/setup.php 1 http://MIDMICHPATHWAYS.ORG/myadmin/scripts/setup.php
+/wp-login.php 1 -
+/robots.txt 58 -
+/admin.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 16
+69.58.178.59 8 8 29604 20130207050332
+bzq-114-71-13.static.bezeqint.net 7 7 26726 20130224162151
+5.135.125.181 4 4 15415 20130224055255
+204.24.95.63 3 13 424778 20130226152531
+ip-64-202-161-41.secureserver.net 2 2 6076 20130207111821
+50.23.23.81-static.reverse.softlayer.com 1 1 3042 20130203053334
+119.63.193.196 1 1 0 20130201170303
+202.46.52.24 1 1 0 20130201170209
+37-145-157-73.broadband.corbina.ru 1 2 5274 20130207141426
+202.46.50.16 1 1 0 20130201005159
+ns2.advancedns.net 1 1 3038 20130206183547
+202.46.62.94 1 1 1899 20130213135700
+119.63.193.132 1 1 0 20130201005230
+202.46.52.34 1 1 4262 20130213135659
+178.33.178.12 1 1 3057 20130201110340
+202.46.63.71 1 1 5115 20130213135700
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20130201 5 5 3057 5
+20130203 1 1 3042 1
+20130206 1 1 3038 1
+20130207 11 12 40954 3
+20130213 3 3 11276 3
+20130224 11 11 42141 2
+20130226 3 13 424778 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 18 42501 13 9
+/map.html 4 7563 1 1
+/faq.html 4 20427 1 2
+/mission.html 3 12772 1 2
+/friends.html 3 23254 0 2
+/contact.html 3 4792 0 0
+END_SIDER

@@ -1,0 +1,475 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201402 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2537                
+POS_VISITOR 10003               
+POS_DAY 13030               
+POS_DOMAIN 3280                
+POS_LOGIN 3637                
+POS_ROBOT 3792                
+POS_WORMS 4411                
+POS_EMAILSENDER 4542                
+POS_EMAILRECEIVER 4685                
+POS_SESSION 13672               
+POS_SIDER 13863               
+POS_FILETYPES 4820                
+POS_OS 4989                
+POS_BROWSER 5133                
+POS_SCREENSIZE 5485                
+POS_UNKNOWNREFERER 5559                
+POS_UNKNOWNREFERERBROWSER 6078                
+POS_ORIGIN 6263                
+POS_SEREFERRALS 6404                
+POS_PAGEREFS 6580                
+POS_SEARCHWORDS 7696                
+POS_KEYWORDS 7947                
+POS_MISC 2201                
+POS_ERRORS 8122                
+POS_CLUSTER 3493                
+POS_SIDER_404 8246                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140301004625 62 8344 43465261182
+FirstTime 20140201001344
+LastTime 20140228223456
+LastUpdate 20140228200335 5 0 0 3 1
+TotalVisits 105                 
+TotalUnique 57                  
+MonthHostsKnown 38                  
+MonthHostsUnknown 22                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 52756 11 12 19094
+1 20 20 27683 11 14 20289
+2 4 4 0 24 24 47018
+3 10 13 42273 5 6 13176
+4 6 11 379530 11 11 27069
+5 7 8 37281 17 26 47509
+6 12 20 516277 19 19 44855
+7 12 12 21607 19 21 58790
+8 6 6 25070 9 11 27917
+9 5 5 8065 18 20 38018
+10 4 4 13099 14 16 31739
+11 20 20 26293 15 21 38629
+12 10 11 20678 24 29 74029
+13 17 67 947272 12 17 34957
+14 20 30 592294 5 6 21562
+15 9 22 183322 14 15 27870
+16 13 16 373301 11 13 38603
+17 4 4 16870 7 7 13856
+18 18 54 1089861 18 20 53788
+19 13 25 839071 33 36 101004
+20 2 2 1583 22 24 64764
+21 10 46 10319 27 32 76857
+22 12 12 7659 7 10 16985
+23 3 8 377850 11 14 26898
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+net 87 96 624146
+ip 62 92 1944905
+com 49 78 1890332
+org 21 136 1066910
+ua 18 18 45570
+lt 6 6 16563
+cn 3 3 15512
+ru 2 2 0
+pl 1 1 3038
+de 1 1 3038
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+googlebot 109 249939 20140228180541 0
+yandex 24 6076 20140228123418 0
+baiduspider 23 81378 20140226120619 0
+robot 23 84428 20140227084622 0
+crawl 21 79678 20140210195235 0
+bot[+:,\.\;\/\\-] 20 72169 20140228182854 0
+mj12bot 12 47268 20140226063311 0
+msiecrawler 7 18228 20140218011841 0
+java 4 12160 20140227183327 0
+no_user_agent 2 6076 20140222122954 0
+surveybot 2 6084 20140225125339 0
+tarantula 1 3057 20140224115005 0
+slurp 1 3038 20140219113054 0
+netcraft 1 3061 20140208200945 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 50 70423 0 0
+png 64 73814 0 0
+html 249 609909 0 0
+js 14 699396 0 0
+jpg 47 3938349 0 0
+jpeg 8 218123 0 0
+aspx 1 0 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 11
+winxp 257
+winlong 2
+winnt 98
+win2000 4
+linux 11
+macosx 13
+win16 1
+winme 1
+win95 3
+win2003 11
+Unknown 32
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 25
+msie6.0 66
+firefox17.0 2
+firefox3.6 1
+opera 40
+lynx 6
+msie5.5 3
+firefox3.6.15 1
+msie8.0 13
+netscape4.76 1
+mozilla 62
+netscape5.0 1
+netscape0.91 3
+firefox14.0.1 7
+msie7.0 149
+firefox22.0 1
+firefox3.5.8 2
+msie10.0 10
+msie2.0 1
+wget 3
+msie5.0 1
+msie9.0 21
+firefox4.2 1
+Unknown 1
+firefox27.0 12
+safari 25
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0 20140211104130
+Mozilla/5.0_(compatible;_Ezooms/1.0;_help@moz.com) 20140227105903
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140208004014
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20140213044213
+Mozilla/5.0_(compatible;_Add_Catalog/2.1;) 20140203052304
+Mozilla/0.91_Beta_(Windows) 20140204110710
+Mozilla/4.0_(compatible;_Blog_Search;) 20140228223456
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140208004014
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 71 83
+From1 0 0
+From2 14 15
+From3 116 116
+From4 49 219
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 7 8
+baidu 1 1
+yandex 6 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 35
+http://ganja-seeds.net 9 9
+http://www.domaintuno.com/d/midmichpathways.org 7 7
+http://image2love.ru 6 6
+http://chimiver.info 6 6
+http://onload.pw 4 4
+http://sonyblog.ru 3 3
+http://xn--h1ahbi.com.ua 3 3
+http://xxx-treker.ru 3 3
+http://worldlovers.ru 3 3
+http://www.tulata1951.ru 3 3
+http://loadopia.com 3 3
+http://videochaty.ru 3 3
+http://sugarkun.com 3 3
+http://lenoreno.com 3 3
+http://sexvporno.ru 3 3
+http://my-bc.ru 3 3
+http://sameid.net/domain/midmichpathways.org/ 1 1
+http://znakomstva-piter78.ru 3 3
+http://unlorend.magicrpg.ru 2 2
+http://alldownload.pw 3 3
+http://topshef.ru 3 3
+http://loadka.ru/news 2 2
+http://evoque.ru 3 3
+http://maldb.com/midmichpathways.org/ 1 1
+http://adult-picture.net 3 3
+http://zakazfutbolki.com 3 3
+http://egvar.net 3 3
+http://coffee-green.biz 3 3
+http://oklogistic.ru 3 3
+http://fotoxxxru.com 3 3
+http://selagrary.biz 3 3
+http://gdebesplatno.ru 3 3
+http://wetfilms.ru 3 3
+http://hotdl.in 3 3
+http://bimatoprost-careprost.com.ua 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+midmichpathways.org 2
+what+is+the+pathway+of+how+met+a+friend 1
+midmichigancommunitypathwayshome 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 11
+midmichpathways.org 2
+the 1
+friend 1
+met 1
+what 1
+a 1
+of 1
+how 1
+midmichigancommunitypathwayshome 1
+pathway 1
+is 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 1 3089
+405 11 19646
+404 161 269525
+301 1 376
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 34
+/robots.txt 117 -
+/user 1 -
+/st.aspx 2 -
+/wp-includes/js/tinymce/themes/advanced/about.htm 1 -
+/admin.php 1 -
+/mission.html/contact.html 2 http://midmichpathways.org/mission.html
+/wordpress/wp-login.php 1 -
+/wp-admin/ 1 -
+/Fckeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/admin/FCKeditor/editor/filemanager/upload/test.html 1 -
+/CFIDE/administrator/enter.cfm 1 -
+/editor/editor/filemanager/connectors/test.html 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/wp/wp-login.php 1 -
+/editor/editor/filemanager/connectors/uploadtest.html 1 -
+/" 3 -
+/administrator/index.php 1 -
+/admin/fckeditor/editor/filemanager/connectors/test.html 1 -
+/editor/editor/filemanager/upload/test.html 1 -
+/admin/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/wordpress/wp-admin/ 1 -
+/pma/scripts/setup.php 1 http://midmichpathways.org/pma/scripts/setup.php
+/myadmin/scripts/setup.php 1 http://midmichpathways.org/myadmin/scripts/setup.php
+/Fckeditor/editor/filemanager/connectors/test.html 1 -
+/blog/wp-admin/ 1 -
+/editor/editor/filemanager/browser/default/connectors/test.html 1 -
+/administrator 2 -
+/blog/wp-login.php 2 -
+/FCKeditor/editor/filemanager/upload/test.html 1 -
+/phpMyAdmin/scripts/setup.php 1 http://midmichpathways.org/phpMyAdmin/scripts/setup.php
+/index.php 1 -
+/wp-login.php 6 -
+/wp-content/plugins/akismet/readme.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 60
+host-32.isabellacounty.org 21 136 1066910 20140220185708
+178-137-90-83-lvv.broadband.kyivstar.net 18 18 0 20140204112634
+134-249-49-231-broadband.kyivstar.net 18 18 0 20140204014228
+178-137-94-155-lvv.broadband.kyivstar.net 15 15 0 20140204015833
+host-216-111-203-210.gratiotmi.com 13 33 1098545 20140220151433
+134-249-76-173-broadband.kyivstar.net 9 9 27342 20140204110710
+133-221.sunnet.com.ua 8 8 24304 20140228223456
+69.58.178.57 8 8 29604 20140208004020
+brandon-pc 7 17 550761 20140220140356
+208-115-111-72-reverse.wowrack.com 7 7 22952 20140227105903
+msnbot-199-30-25-91.search.msn.com 0 3 350065 
+198.109.173.40 4 10 415845 20140219195027
+36.250.244.198 1 1 7737 20140201001344
+ptr.cnsat.com.cn 1 1 0 20140207090443
+150-70-173-38.trendmicro.com 1 1 3038 20140220135223
+static.2.214.9.5.clients.your-server.de 1 1 3038 20140203084949
+134-249-76-182-broadband.kyivstar.net 6 6 18228 20140214061911
+38.100.21.62 7 10 35049 20140222032312
+ip118-159.200.109.crimea.com 3 3 3057 20140218011842
+156.33.241.8 6 12 420169 20140225195719
+msnbot-65-55-215-248.search.msn.com 1 2 5179 20140203124615
+unallocated.sta.lan.ua 6 6 18228 20140204065425
+cl-78-158-11-226.fastlink.lt 6 6 16563 20140213044213
+ip-64-202-161-41.secureserver.net 1 1 0 20140209201313
+195.242.218.133 3 3 9114 20140201144656
+37-115-112-240-broadband.kyivstar.net 6 6 18228 20140204124419
+208.115.113.88 4 4 15146 20140226005225
+ec2-50-16-145-24.compute-1.amazonaws.com 3 3 9118 20140225065206
+109.120.157.179.addr.datapoint.ru 2 2 0 20140203052304
+119.63.193.194 1 1 0 20140207090551
+83-238-227-78.adsl.inetia.pl 1 1 3038 20140208212351
+199.15.233.180 1 1 7756 20140222172105
+199.15.233.140 1 1 7756 20140216181332
+188.143.232.111 4 4 31024 20140221112000
+31.148.246.77 1 1 1583 20140226222901
+hosted-by.leaseweb.com 7 7 2163 20140225091142
+c-71-227-60-19.hsd1.mi.comcast.net 1 9 482855 20140221065048
+208-78-96-220.static.cloud-ips.com 1 1 1583 20140211104130
+150-70-75-167.trendmicro.com 1 1 3038 20140220182217
+37-115-112-88-broadband.kyivstar.net 6 6 18228 20140218173045
+ns307835.ovh.net 5 5 22032 20140219082323
+31.148.246.223 1 1 1583 20140208232115
+mail0.ess.barracuda.com 2 2 6114 20140220140015
+msnbot-199-30-25-5.search.msn.com 0 5 370191 
+136.181.195.8 1 6 373229 20140221230101
+199.15.233.137 1 1 7756 20140219070051
+91.215.188.105 1 1 3057 20140225151552
+162.242.242.149 1 1 3062 20140228054242
+ip-64-202-161-45.secureserver.net 2 2 6076 20140207120348
+188.143.232.31 2 2 15512 20140227101343
+vps.node61.nqhost.com 7 7 6114 20140228072812
+61.135.190.100 1 1 3038 20140222074829
+94.244.143.49.nash.net.ua 1 1 3038 20140224233453
+193.43.252.252 4 4 0 20140220024642
+mail14.ess.barracuda.com 3 3 9175 20140220180750
+50-33-190-226.drr02.mskg.mi.frontiernet.net 0 1 31157 
+162.242.211.94 1 1 3062 20140221182827
+162.209.104.78 1 1 3062 20140221054647
+104.214.77.222.broad.pt.fj.dynamic.163data.com.cn 2 2 15512 20140215015409
+82.193.99.33.usernat.ip.net.ua 3 3 0 20140202054245
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20140201 29 32 376339 9
+20140202 24 24 27342 8
+20140203 20 74 566738 7
+20140204 28 64 27342 8
+20140205 1 1 309 1
+20140206 1 1 5096 1
+20140207 5 5 9057 4
+20140208 13 14 71458 5
+20140209 4 4 9648 4
+20140211 2 2 3463 2
+20140212 4 4 13357 2
+20140213 10 10 30685 5
+20140214 3 8 379305 1
+20140215 7 7 29363 4
+20140216 4 4 16870 2
+20140217 1 1 309 1
+20140218 6 6 12171 2
+20140219 17 33 996398 4
+20140220 30 76 1643807 11
+20140221 8 21 876349 7
+20140222 10 13 50939 4
+20140223 1 1 2981 1
+20140224 1 1 3038 1
+20140225 11 17 432653 4
+20140226 2 2 3166 2
+20140227 2 2 9636 2
+20140228 6 6 12195 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+30s-2mn 1
+0s-30s 100
+15mn-30mn 1
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 171 278255 77 71
+/friends.html 23 170442 13 15
+/mission.html 16 55202 3 3
+/faq.html 15 66291 3 6
+/map.html 12 20723 3 2
+/contact.html 12 18996 5 7
+/admin/default.aspx 1 0 1 1
+END_SIDER

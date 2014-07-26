@@ -1,0 +1,341 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201405 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2535                
+POS_VISITOR 7156                
+POS_DAY 9319                
+POS_DOMAIN 3175                
+POS_LOGIN 3511                
+POS_ROBOT 3666                
+POS_WORMS 4083                
+POS_EMAILSENDER 4214                
+POS_EMAILRECEIVER 4357                
+POS_SESSION 9622                
+POS_SIDER 9780                
+POS_FILETYPES 4492                
+POS_OS 4611                
+POS_BROWSER 4716                
+POS_SCREENSIZE 4935                
+POS_UNKNOWNREFERER 5009                
+POS_UNKNOWNREFERERBROWSER 5424                
+POS_ORIGIN 5653                
+POS_SEREFERRALS 5788                
+POS_PAGEREFS 5932                
+POS_SEARCHWORDS 6405                
+POS_KEYWORDS 6557                
+POS_MISC 2199                
+POS_ERRORS 6616                
+POS_CLUSTER 3367                
+POS_SIDER_404 6726                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140612043415 5 322 74241270472
+FirstTime 20140501033442
+LastTime 20140512040101
+LastUpdate 20140612235129 5 0 0 3 1
+TotalVisits 56                  
+TotalUnique 38                  
+MonthHostsKnown 29                  
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 17191 5 6 31587
+1 7 7 13759 1 1 3038
+2 3 8 380529 0 0 0
+3 10 10 8046 5 5 13005
+4 1 6 373229 7 7 10894
+5 0 0 0 2 3 79706
+6 0 0 0 4 4 6123
+7 1 1 3042 14 14 24597
+8 20 20 68411 11 15 142936
+9 0 0 0 3 3 5385
+10 2 2 7281 1 1 5096
+11 10 15 396749 10 11 20786
+12 2 2 6076 5 5 8423
+13 1 1 7756 7 7 18035
+14 8 8 15286 6 6 10242
+15 5 10 394798 8 8 18489
+16 0 0 0 2 3 3781
+17 0 0 0 7 7 11512
+18 1 1 309 6 6 13257
+19 4 15 754775 6 6 22522
+20 8 8 3371 4 4 9948
+21 0 0 0 2 3 7050
+22 0 0 0 5 7 92775
+23 7 7 15736 3 3 6619
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+ip 35 40 437841
+com 31 37 484094
+ua 15 15 27342
+net 4 4 13813
+br 3 18 1119687
+cn 3 3 0
+se 2 2 7281
+pl 1 6 373229
+eu 1 1 3057
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 40 181170 20140510182815 0
+bot[+:,\.\;\/\\-] 15 39132 20140511220602 0
+baiduspider 12 191717 20140512070039 0
+yandex 3 29908 20140509000419 0
+robot 3 11219 20140508041220 0
+no_user_agent 1 3038 20140503174033 0
+surveybot 1 3042 20140503071412 0
+slurp 1 3038 20140509231826 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 7 15386 0 0
+png 12 40236 0 0
+html 95 243000 0 0
+jpg 12 2167722 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+winme 4
+winxp 19
+winlong 6
+winnt 47
+win2000 12
+Unknown 29
+linux 9
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 15
+msie8.0 1
+msie6.0 19
+firefox28.0 2
+mozilla 15
+msie7.0 13
+firefox14.0.1 8
+firefox3.5.8 2
+opera 3
+wget 1
+msie9.0 11
+curl 1
+msie5.5 3
+Unknown 14
+safari 32
+firefox15.0.1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Ruby 20140509035125
+Mozilla/5.0_(compatible;_WebMasterAid/1.0;__http://wmaid.com/explore/) 20140512033351
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140507081032
+Mozilla/4.0_(compatible;) 20140508155157
+NerdyBot 20140509235629
+Mozilla/4.0_(compatible;_Blog_Search;) 20140512013744
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Ruby 20140509035125
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140507081032
+NerdyBot 20140509235629
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 56
+From1 0 0
+From2 0 0
+From3 38 38
+From4 3 32
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://dominterior.org 6 6
+http://cookingmeat.ru 6 6
+http://semalt.semalt.com/crawler.php 5 5
+http://invetdollare.net 3 3
+http://www.replica-club.ru 3 3
+http://toureseme.net 3 3
+http://sckuns.ru 3 3
+http://wmaid.com/explore/midmichpathways.org 3 3
+http://darkhalfe.ru/catalog/horosho/18.html 3 3
+http://historyeurop.org 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 1 3089
+405 5 8930
+404 53 91523
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/index.php 6 -
+/wp-login.php 7 -
+/robots.txt 35 -
+/administrator/ 1 -
+/st.aspx 1 -
+/blog/wp-login.php 2 -
+/admin.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+193.150.120.14 15 15 0 20140506202309
+208.43.252.200-static.reverse.softlayer.com 11 11 45457 20140510084721
+133-221.sunnet.com.ua 9 9 27342 20140512013744
+69.58.178.56 8 8 29604 20140507081038
+ec2-54-197-82-168.compute-1.amazonaws.com 7 7 26558 20140509035125
+82.193.99.33.usernat.ip.net.ua 6 6 0 20140509235217
+ptr.cnsat.com.cn 3 3 0 20140509030200
+188.92.76.167 3 3 927 20140512033351
+anon-45-92.vpn.ipredator.se 2 2 7281 20140508100827
+188.143.232.111 2 2 15512 20140509132034
+25.158.251.23.bc.googleusercontent.com 1 1 3062 20140507140459
+68-188-255-250.static.bycy.mi.charter.com 1 6 373229 20140508155157
+nat-dc5.es.bluecoat.com 1 1 3038 20140508155157
+blink.duckduckgo.com 1 1 3042 20140505071442
+150-70-173-38.trendmicro.com 1 1 3038 20140510145140
+50-57-64-198.static.cloud-ips.com 1 1 3062 20140508205316
+119.63.193.196 1 1 0 20140509030258
+118.180.222.162.bc.googleusercontent.com 1 1 3062 20140501140453
+ip-64-202-161-41.secureserver.net 1 1 3038 20140507120254
+ip-static-94-242-255-240.as5577.net 1 1 0 20140508143432
+119.63.193.194 1 1 0 20140502145140
+98.7.207.91.unknown.steephost.net 1 1 7737 20140508152328
+67.178.222.162.bc.googleusercontent.com 1 1 3062 20140506140430
+baiduspider-123-125-71-20.crawl.baidu.com 0 1 2198 
+119.63.193.131 1 1 0 20140506010903
+253.80.59.108.bc.googleusercontent.com 1 1 3038 20140510155938
+177.16.248.110.static.host.gvt.net.br 1 6 373229 20140505023942
+188.143.232.230 2 2 15512 20140510085103
+179-245-112-90.user.vivozap.com.br 1 6 373229 20140512040101
+host-89-229-21-140.torun.mm.pl 1 6 373229 20140504114710
+176.61.138.205 1 1 3057 20140507024543
+62-210-122-123.rev.poneytelecom.eu 1 1 3057 20140503191207
+121.54.32.153 1 6 373229 20140506192214
+96.148.251.23.bc.googleusercontent.com 1 1 3062 20140505194744
+200-96-128-74.cpece700.dsl.brasiltelecom.net.br 1 6 373229 20140507191041
+ip-64-202-161-46.secureserver.net 1 1 3038 20140507120250
+238.116.255.173.bc.googleusercontent.com 1 1 3062 20140502140449
+240.212.178.107.bc.googleusercontent.com 1 1 3062 20140509235629
+174.81.59.108.bc.googleusercontent.com 1 1 3062 20140506015110
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20140501 4 4 3062 2
+20140502 9 9 26582 4
+20140503 6 7 29881 4
+20140504 4 9 373229 2
+20140505 10 15 379642 6
+20140506 15 20 388776 9
+20140507 13 18 415028 6
+20140508 9 14 399265 7
+20140509 12 12 32458 9
+20140510 8 8 35769 4
+20140512 5 10 382652 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 2
+0s-30s 54
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 70 119423 46 42
+/friends.html 9 69709 6 7
+/mission.html 5 21215 3 2
+/map.html 4 7520 0 1
+/faq.html 4 20384 0 2
+/contact.html 3 4749 1 2
+END_SIDER

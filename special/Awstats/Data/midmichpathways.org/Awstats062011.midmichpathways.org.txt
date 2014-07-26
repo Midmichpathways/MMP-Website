@@ -1,0 +1,335 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201106 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2535                
+POS_VISITOR 7575                
+POS_DAY 8445                
+POS_DOMAIN 3148                
+POS_LOGIN 3407                
+POS_ROBOT 3562                
+POS_WORMS 3974                
+POS_EMAILSENDER 4105                
+POS_EMAILRECEIVER 4248                
+POS_SESSION 8755                
+POS_SIDER 8935                
+POS_FILETYPES 4383                
+POS_OS 4500                
+POS_BROWSER 4623                
+POS_SCREENSIZE 4800                
+POS_UNKNOWNREFERER 4874                
+POS_UNKNOWNREFERERBROWSER 4961                
+POS_ORIGIN 5043                
+POS_SEREFERRALS 5176                
+POS_PAGEREFS 5331                
+POS_SEARCHWORDS 5479                
+POS_KEYWORDS 5665                
+POS_MISC 2199                
+POS_ERRORS 5764                
+POS_CLUSTER 3263                
+POS_SIDER_404 5866                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110701015936 5 322 52555893367
+FirstTime 20110601015847
+LastTime 20110629043256
+LastUpdate 20110630220601 5 0 0 3 1
+TotalVisits 18                  
+TotalUnique 17                  
+MonthHostsKnown 9                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 4262 4 5 7532
+1 1 2 5236 37 38 88133
+2 0 0 0 12 13 35555
+3 2 9 358381 8 9 11103
+4 12 12 38842 4 6 10428
+5 0 0 0 1 2 34218
+6 1 1 3057 5 5 3609
+7 0 0 0 8 12 26407
+8 3 3 9114 3 4 7937
+9 1 1 3057 4 5 10504
+10 7 10 35049 2 3 7092
+11 2 2 6076 6 7 9651
+12 3 3 3057 4 4 7909
+13 0 0 0 6 6 13542
+14 1 6 373233 49 50 92350
+15 0 0 0 3 3 4852
+16 1 6 95805 5 10 29458
+17 0 0 0 0 0 0
+18 0 0 0 1 1 3057
+19 0 0 0 0 0 0
+20 0 0 0 4 5 14411
+21 1 1 3042 4 4 8686
+22 0 0 0 0 0 0
+23 5 9 47318 8 8 16497
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ip 27 39 501784
+com 10 18 378807
+net 4 9 104938
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+slurp 34 95709 20110625143742 0
+baiduspider 28 66401 20110629120941 0
+bot[+:,\.\;\/\\-] 10 13655 20110629214619 0
+googlebot 7 0 20110622073757 0
+surveybot 3 9126 20110626235312 0
+yandex 1 31157 20110627052443 0
+mnogosearch 1 3061 20110605013116 0
+netcraft 1 3061 20110607051158 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 10 25790 0 0
+png 6 20166 0 0
+html 41 133194 0 0
+jpg 9 806379 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+winlong 3
+winxp 16
+winnt 13
+linux 6
+linuxfedora 8
+macosx 1
+win2003 10
+linuxdebian 9
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 11
+msie8.0 8
+msie6.0 3
+mozilla 9
+firefox3.5.8 2
+msie7.0 11
+msie5.0 3
+msie9.0 6
+msie5.5 3
+firefox3.5.3 8
+safari 10
+firefox3.0.8 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 40 47
+From1 0 0
+From2 1 1
+From3 0 0
+From4 0 18
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+mid+michigan+community+pathways 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+pathways 1
+mid 1
+community 1
+michigan 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 7 26948
+404 108 193813
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 43
+/webdb/scripts/setup.php 2 -
+/admin/phpmyadmin/scripts/setup.php 2 -
+/robots.txt 34 -
+/mysqladmin/scripts/setup.php 3 -
+/sqlweb/scripts/setup.php 2 -
+/xampp/phpmyadmin/scripts/setup.php 2 -
+/admin/pma/scripts/setup.php 2 -
+/mysql/scripts/setup.php 2 -
+/dbadmin/scripts/setup.php 2 -
+/phpmanager/scripts/setup.php 2 -
+/databaseadmin/scripts/setup.php 2 -
+/phpmyadmin2/scripts/setup.php 2 -
+/php-myadmin/scripts/setup.php 1 -
+/sqlmanager/scripts/setup.php 2 -
+/phpMyAdmin-2.5.1/scripts/setup.php 1 -
+/phpmyadmin/scripts/setup.php 3 -
+/typo3/phpmyadmin/scripts/setup.php 1 -
+/phpMyAdmin-2.5.4/scripts/setup.php 1 -
+/admm/scripts/setup.php 1 -
+/muieblackcat 2 -
+/webadmin/scripts/setup.php 2 -
+/pma2005/scripts/setup.php 1 -
+/php-my-admin/scripts/setup.php 2 -
+/scripts/setup.php 2 -
+/phpmyadmin1/scripts/setup.php 1 -
+/websql/scripts/setup.php 3 -
+/PMA2005/scripts/setup.php 1 -
+/phpmy-admin/scripts/setup.php 1 -
+/admin/scripts/setup.php 2 -
+/web/phpMyAdmin/scripts/setup.php 2 -
+/phpMyAdmin-2.2.3/scripts/setup.php 1 -
+/p/m/a/scripts/setup.php 1 -
+/phpadmin/scripts/setup.php 2 -
+/phpMyAdmin-2/scripts/setup.php 2 -
+/phpMyAdmin-2.2.6/scripts/setup.php 1 -
+/pma/scripts/setup.php 2 -
+/myadmin/scripts/setup.php 2 -
+/web/scripts/setup.php 2 -
+/admn/scripts/setup.php 1 -
+/mysql-admin/scripts/setup.php 1 -
+/db/scripts/setup.php 2 -
+/phpMyAdmin/scripts/setup.php 3 -
+/mysqlmanager/scripts/setup.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+69.58.178.58 8 8 29604 20110606040029
+38.100.21.12 7 10 35049 20110619102101
+38.99.82.254 5 8 46325 20110610000334
+zebra945.startdedicated.com 3 3 9114 20110606081649
+81.196.5.130 3 3 6204 20110611045602
+a360soaa4.miniserver.com 2 2 6076 20110629043256
+ip-64-202-161-41.secureserver.net 2 2 6076 20110607112152
+wftest.cuda-inc.com 2 2 0 20110603125621
+lwdc.br05.gi9-48.host4.24187.americanis.net 1 1 3057 20110623122955
+blink.ivegotafang.com 1 1 3042 20110614211326
+38.99.82.253 1 1 3057 20110610063112
+70.59.126.251 1 6 373233 20110603143334
+h69-130-231-72.mdsnwi.tisp.static.tds.net 1 6 95805 20110601162608
+dpc6682009074.direcpc.com 1 8 355339 20110620034314
+msnbot-207-46-195-214.search.msn.com 1 2 5236 20110601015847
+38.99.82.224 1 1 3057 20110610093051
+38.99.82.223 1 2 5255 20110609231243
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20110601 2 8 101041 2
+20110603 3 8 373233 2
+20110606 11 11 38718 2
+20110607 2 2 6076 1
+20110609 5 9 47318 2
+20110610 3 3 10376 3
+20110611 3 3 6204 1
+20110614 1 1 3042 1
+20110619 7 10 35049 1
+20110620 1 8 355339 1
+20110623 1 1 3057 1
+20110629 2 2 6076 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+2mn-5mn 1
+0s-30s 15
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 25 69918 16 13
+/contact.html 4 6332 0 1
+/mission.html 3 12748 1 1
+/friends.html 3 23230 1 1
+/map.html 3 5659 0 1
+/faq.html 3 15307 0 1
+END_SIDER

@@ -1,0 +1,529 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201401 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2537                
+POS_VISITOR 10972               
+POS_DAY 14625               
+POS_DOMAIN 3289                
+POS_LOGIN 3633                
+POS_ROBOT 3788                
+POS_WORMS 4417                
+POS_EMAILSENDER 4548                
+POS_EMAILRECEIVER 4691                
+POS_SESSION 15200               
+POS_SIDER 15390               
+POS_FILETYPES 4826                
+POS_OS 4977                
+POS_BROWSER 5130                
+POS_SCREENSIZE 5514                
+POS_UNKNOWNREFERER 5588                
+POS_UNKNOWNREFERERBROWSER 5988                
+POS_ORIGIN 6174                
+POS_SEREFERRALS 6312                
+POS_PAGEREFS 6456                
+POS_SEARCHWORDS 9861                
+POS_KEYWORDS 10013               
+POS_MISC 2201                
+POS_ERRORS 10072               
+POS_CLUSTER 3489                
+POS_SIDER_404 10195               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140201001344 70 9944 64140585722
+FirstTime 20140110051644
+LastTime 20140131212339
+LastUpdate 20140131200244 5 0 0 3 1
+TotalVisits 206                 
+TotalUnique 67                  
+MonthHostsKnown 48                  
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 30 30 35079 13 15 37335
+1 2 2 3347 9 9 17483
+2 22 22 15912 16 21 35937
+3 23 23 24312 15 19 30747
+4 42 42 81583 23 24 53376
+5 25 25 24304 6 8 15944
+6 25 25 15209 10 11 23410
+7 34 34 39494 14 19 46324
+8 32 32 24327 21 24 59110
+9 9 9 18228 17 20 47841
+10 18 18 52924 12 15 29033
+11 16 16 27380 8 9 22326
+12 44 44 36475 21 30 180907
+13 28 28 46378 18 19 41141
+14 14 14 43489 17 19 69868
+15 30 30 17488 13 14 36163
+16 28 28 25984 6 9 20645
+17 28 34 396780 17 18 47571
+18 43 63 445932 13 16 70309
+19 36 36 65228 9 13 149828
+20 21 21 48358 28 30 93216
+21 30 30 59633 18 18 21592
+22 15 15 9114 8 9 22111
+23 25 25 48917 10 14 23620
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+net 354 354 420354
+ua 139 139 115444
+ip 67 73 525007
+com 37 37 112572
+ru 14 14 0
+org 4 24 415609
+cn 2 2 7756
+de 2 2 6095
+pl 1 1 3038
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+googlebot 89 298948 20140131185859 0
+bot[+:,\.\;\/\\-] 37 130039 20140128084001 0
+baiduspider 33 183165 20140131144003 0
+yandex 25 9057 20140130035024 0
+mj12bot 13 50211 20140129094043 0
+robot 13 50675 20140122135503 0
+java 9 143124 20140123121424 0
+crawl 7 26558 20140111204751 0
+spider 6 15204 20140130113228 0
+msiecrawler 6 18228 20140128090213 0
+powermarks 3 9114 20140129044406 0
+surveybot 2 6084 20140130123404 0
+archive\.org_bot 1 3000 20140117040957 0
+mnogosearch 1 3061 20140111090801 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 8 4396 0 0
+png 10 13412 0 0
+html 618 821376 0 0
+jpg 7 722574 0 0
+jpeg 1 31157 0 0
+aspx 2 12960 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 12
+winxp 447
+winlong 27
+unix 6
+winnt 27
+win2000 44
+linux 14
+macosx 3
+winme 4
+win95 18
+win2003 12
+wince 9
+Unknown 35
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 27
+msie6.0 255
+firefox5.0 2
+netscape4.61 6
+opera 176
+firefox21.0 1
+firefox10.0.1 1
+firefox4.0 1
+curl 1
+msie5.5 25
+msie3.02 9
+netscape4.79 3
+netscape4.76 6
+msie8.0 10
+netscape0.6 6
+mozilla 25
+firefox25.0 4
+netscape0.91 3
+netscape3.0 3
+msie7.0 68
+firefox16.0 1
+msie2.0 12
+firefox3.6.3 1
+wget 1
+msie9.0 1
+Unknown 1
+safari 17
+firefox11.0 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/0.6_Beta_(Windows) 20140126120433
+Mozilla/5.0_(compatible;_Ezooms/1.0;_help@moz.com) 20140131015834
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20140114121829
+Mozilla/5.0_(compatible;_Add_Catalog/2.1;) 20140130231434
+Mozilla/0.91_Beta_(Windows) 20140118195652
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20140114121829
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 61 63
+From1 1 1
+From2 0 0
+From3 544 544
+From4 14 38
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 114
+http://chimiver.info 27 27
+http://naphukete.ru 18 18
+http://www.tulata1951.ru 15 15
+http://pornogig.com 15 15
+http://vigrx-original.ru 12 12
+http://medicinacom.ru 12 12
+http://www.reklamuss.ru 9 9
+http://master-remont-tehniki.ru 9 9
+http://wcb.su 9 9
+http://scitec.com.ua 9 9
+http://www.friendhand.ru 3 3
+http://credit-banki.net 6 6
+http://robot-forex.biz 3 3
+http://znakomstvaonlain.ru 6 6
+http://lananimal.net 6 6
+http://qwertasdfg.ru 3 3
+http://winterior.com.ua 3 3
+http://stroydetali.ru 3 3
+http://www.svetlotorg.ru 2 2
+http://master-muznachas.ru 3 3
+http://ganja-seeds.net 3 3
+http://gfaq.ru 3 3
+http://alfapro.ru 3 3
+http://snyatie-lomki-v-stacionare.ru 3 3
+http://admforum.ru 6 6
+http://www.moneyclone.ru 3 3
+http://doska-vsem.ru 3 3
+http://www.artparquet.ru 6 6
+http://porno-play.net 6 6
+http://lenoreno.com 3 3
+http://vduplo.ru 3 3
+http://my-bc.ru 3 3
+http://gcup.ru/games/Ant/ 6 6
+http://psvita.ru 6 6
+http://cookingmeat.ru 6 6
+http://gos-kredity.ru 3 3
+http://prank.su/load 2 2
+http://otbelivanie-zubov.com 3 3
+http://sport-kosa.ru 3 3
+http://mug-na-chas-moscow.ru 6 6
+http://sellonweb.ru 3 3
+http://onload.pw 4 4
+http://ochistka-stokov.ru 6 6
+http://vrnelectro.ru 6 6
+http://seryeznie-znakomstva.ru 6 6
+http://looking-auto.com/gallery.php 3 3
+http://remont-fridge-tv.ru 6 6
+http://welcomeauto.ru 3 3
+http://bag77.ru 3 3
+http://www.avtoarenda.by 6 6
+http://lechenie-zavisimosti-ot-spajsa.ru 3 3
+http://gamedev.su 6 6
+http://www.cocos2d-iphone.org/forums/topic/cookies-cookie-clicker-iphone 6 6
+http://www.xn----7sbfejdvocrv7adem.xn--p1ai 4 4
+http://www.fromglass.ru 2 2
+http://forminecrafters.ru 3 3
+http://mesto-x.com 3 3
+http://blackwitchcraft.ru 6 6
+http://aviapanda.ru 6 6
+http://statustroll.com 3 3
+http://deda-moroza-zakaz.ru 3 3
+http://narkologiya-peterburg.ru 3 3
+http://www.astrakhans.ru 3 3
+http://www.puzo2arbuza.ru 3 3
+http://image2love.ru 3 3
+http://midmichigansustainability.org 1 1
+http://delayreferat.ru 3 3
+http://w12files.com 4 4
+http://minecraft-neo.ru 3 3
+http://sexvgorode.ru 3 3
+http://seksotur.ru 3 3
+http://fibizmoney.org/news.php 3 3
+http://stop-drugs.net 3 3
+http://kvartiry-remont.ucoz.ru 6 6
+http://silverage.ru 3 3
+http://e-mexx.ru 3 3
+http://prirodlive.net 3 3
+http://romhacking.net.ru 2 2
+http://www.sakhboard.ru 3 3
+http://www.domaintuno.com/d/midmichpathways.org 5 5
+http://videochaty.ru 3 3
+http://narkologiya-voronezh.ru 3 3
+http://sdelatmebel.ru 3 3
+http://sovetogorod.ru 3 3
+http://modabutik.ru 3 3
+http://narkologiya-penza.ru 3 3
+http://evoque.ru 3 3
+http://tiandeural.ru 3 3
+http://galaxyflowers.ru 6 6
+http://resineusa.biz 3 3
+http://adult-picture.net 9 9
+http://zakazfutbolki.com 6 6
+http://sisiynas.ru 6 6
+http://flovgrean.org 6 6
+http://pornoforadult.com 3 3
+http://remont-mobile-phones.ru 3 3
+http://forums.toucharcade.com/showthread.php 3 3
+http://theheroes.ru 6 6
+http://coffee-green.biz 3 3
+http://kinohit1.ru 3 3
+http://gcup.ru/forum/ 6 6
+http://prank.su 3 3
+http://www.koptims.tiu.ru 9 9
+http://timetorelax.biz 3 3
+http://www.arenda.triumf-realty.ru 2 2
+http://magazintiande.ru 3 3
+http://www.moi-glazki.ru 6 6
+http://samo-cvet.com 3 3
+http://avtogury.ru 3 3
+http://www.proconcert.ru 6 6
+http://selagrary.biz 3 3
+http://buy-tramadolonline.org 3 3
+http://wstroika.ru 6 6
+http://pc-torrent.ru 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 2 6208
+405 8 14250
+301 1 376
+404 147 228535
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 25
+/sitemap.xml 2 -
+/robots.txt 102 -
+/" 2 -
+/Fckeditor/_whatsnew.html 1 -
+/st.aspx 3 -
+/apple-touch-icon.png 2 -
+/user 1 -
+/admin.php 2 -
+/news.php 1 -
+/pma/ 1 -
+/forum/ 1 -
+/webmail/ 1 -
+/administrator/index.php 12 http://MIDMICHPATHWAYS.ORG/administrator/index.php
+/wordpress/wp-admin/ 1 -
+/do.php 1 -
+/wp-admin/ 1 -
+/administrator 1 -
+/blog/wp-admin/ 1 -
+/login/ 1 -
+/index.php 2 -
+/wp-login.php 4 -
+/cgi-bin/awstats.pl 1 -
+/mail/ 1 -
+/phpmyadmin/ 1 -
+/mail.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 67
+178-137-86-76-lvv.broadband.kyivstar.net 60 60 0 20140125071305
+sol-fttb.207.152.118.46.sovam.net.ua 51 51 0 20140126022815
+37-115-112-69-broadband.kyivstar.net 45 45 136710 20140127193914
+unallocated.sta.lan.ua 39 39 115444 20140131212339
+178-137-94-155-lvv.broadband.kyivstar.net 30 30 0 20140131073202
+178-137-161-36-broadband.kyivstar.net 30 30 0 20140125155115
+82.193.99.33.usernat.ip.net.ua 30 30 0 20140131051914
+178-137-90-83-lvv.broadband.kyivstar.net 27 27 0 20140131040657
+46.119.117.28 24 24 0 20140114032009
+134-249-49-170-broadband.kyivstar.net 24 24 0 20140114025813
+162.243.37.236 1 1 3038 20140116120921
+static.68.48.4.46.clients.your-server.de 1 1 3057 20140122111745
+blink.ivegotafang.com 1 1 3042 20140114034013
+bzq-82-80-249-137.static.dcenter.bezeqint.net 7 7 26730 20140111044003
+sol-fttb.30.120.119.46.sovam.net.ua 18 18 0 20140115132909
+178-137-128-226-broadband.kyivstar.net 6 6 15190 20140130044842
+security.lightspeedsystems.com 14 14 53238 20140119144609
+host-46-172-221-149.mirgiga.net 4 4 3057 20140131210603
+37-115-112-240-broadband.kyivstar.net 6 6 18228 20140131122130
+109.120.157.179.addr.datapoint.ru 14 14 0 20140130231434
+208.115.113.88 5 5 25543 20140128170245
+162.250.28.33 1 7 373172 20140128172124
+ec2-50-17-53-44.compute-1.amazonaws.com 1 1 4243 20140110191009
+199.15.233.180 1 1 7756 20140111045713
+162.243.104.13 1 1 3057 20140112064612
+host-32.isabellacounty.org 4 24 415609 20140130180725
+94-153-65-189-gprs.kyivstar.net 3 3 9114 20140128201240
+46.229.170.197 1 1 3038 20140120110327
+z83l61.static.ctm.net 1 1 7756 20140114045717
+94-153-64-33-gprs.kyivstar.net 12 12 36456 20140112215922
+117.194.237.120 3 3 19036 20140120134440
+162.243.201.212 1 1 3057 20140114081248
+134-249-76-173-broadband.kyivstar.net 3 3 9114 20140131144539
+178-137-129-103-broadband.kyivstar.net 12 12 36456 20140120132704
+ec2-50-16-27-251.compute-1.amazonaws.com 1 1 7737 20140118175516
+162.243.101.223 1 1 3038 20140121084516
+193.105.210.174 1 1 3038 20140120073234
+vps.node61.nqhost.com 1 1 0 20140123040633
+193.43.252.252 4 4 0 20140118112342
+ec2-54-204-185-114.compute-1.amazonaws.com 1 1 3038 20140112173925
+ec2-23-22-210-92.compute-1.amazonaws.com 1 1 5096 20140117170234
+94-153-64-193-gprs.kyivstar.net 21 21 60760 20140127070924
+134-249-49-231-broadband.kyivstar.net 21 21 0 20140130181731
+ptr.cnsat.com.cn 1 1 0 20140121131111
+94-153-65-238-gprs.kyivstar.net 6 6 18228 20140116070524
+208-115-111-72-reverse.wowrack.com 6 6 17913 20140131015834
+ec2-23-22-93-43.compute-1.amazonaws.com 1 1 1583 20140113192642
+189.160.153.27.broad.pt.fj.dynamic.163data.com.cn 1 1 7756 20140120194240
+ns6.lanservice.com.pl 1 1 3038 20140129063904
+static.110.192.9.176.clients.your-server.de 1 1 3038 20140111232119
+119.63.193.196 2 2 0 20140121131226
+192.241.132.143 1 1 3057 20140115111018
+ec2-23-20-72-195.compute-1.amazonaws.com 1 1 2981 20140110180031
+5.56.63.90.gigas.com 1 1 3038 20140114121829
+ip-64-202-161-41.secureserver.net 1 1 0 20140111204756
+206-225-83-83.dedicated.codero.net 1 1 3042 20140114031443
+195.242.218.133 15 15 45570 20140128152327
+199.15.233.140 1 1 7756 20140123154049
+188.143.232.111 2 2 15512 20140127164614
+hosted-by.leaseweb.com 5 5 1545 20140128154708
+ec2-54-201-123-39.us-west-2.compute.amazonaws.com 3 3 9118 20140125082657
+134-249-53-119-broadband.kyivstar.net 21 21 0 20140119071743
+37-115-112-109-broadband.kyivstar.net 12 12 36456 20140114100336
+188.143.232.31 1 1 7756 20140122040721
+146.120.158.75 1 1 1583 20140111211134
+94.244.143.49.nash.net.ua 1 1 0 20140124021958
+38.5.207.91.unknown.steephost.net 1 1 3057 20140115121451
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20140110 15 15 25452 6
+20140111 44 44 59215 15
+20140112 29 29 73722 10
+20140113 29 29 27548 9
+20140114 25 25 38163 12
+20140115 24 24 36494 8
+20140116 38 38 67145 11
+20140117 16 16 14210 5
+20140118 46 46 53307 12
+20140119 16 16 26619 4
+20140120 39 39 69324 13
+20140121 28 28 29331 12
+20140122 33 33 40213 11
+20140123 27 27 28965 9
+20140124 32 32 29234 12
+20140125 27 27 45574 8
+20140126 21 21 15190 6
+20140127 29 29 32107 10
+20140128 30 36 408560 11
+20140129 19 19 9114 6
+20140130 24 44 433837 7
+20140131 29 29 42551 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 197
+2mn-5mn 1
+30s-2mn 2
+15mn-30mn 2
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 580 639487 185 180
+/friends.html 13 100738 10 12
+/mission.html 7 29725 3 4
+/map.html 6 11304 2 2
+/faq.html 6 30600 2 3
+/contact.html 6 9522 3 3
+/admin/default.aspx 2 12960 1 2
+END_SIDER
